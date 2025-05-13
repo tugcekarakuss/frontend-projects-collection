@@ -1,4 +1,4 @@
-# Kitap Tanıtım Sayfası
+# Kitap Tanıtım Sayfası 
 
 Bu proje, seçilen bir kitabın tanıtımını yapan basit ve şık bir frontend sayfasıdır. Sayfa, kitap kapağı görseli, başlığı, yazarı ve açıklama gibi temel bilgileri içerir. Görsel odaklı ve sade bir tasarım hedeflenmiştir.
 
