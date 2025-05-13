@@ -6,7 +6,7 @@ Bu proje, bir kitabın tanıtımını yapan basit ve görsel odaklı bir HTML/CS
 
 Aşağıda projenin ekran görüntüsünü bulabilirsiniz:
 
-![Kitap Tanıtım Sayfası](./assets/kitap-sayfasi-resim.png)
+![Kitap Tanıtım Sayfası](./assets/kitap-tanitim-sayfasi.png)
 
 
 
