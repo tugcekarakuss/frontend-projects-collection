@@ -8,7 +8,7 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 
 | Proje Adı | Açıklama |
 | --------- | -------- |
-| kitap-inceleme | Basit bir kitap inceleme sayfasıdır.  |
+| Kitap Tanıtım Sayfası | Basit bir kitap inceleme sayfasıdır.  |
 
 ## Amaç
 
