@@ -15,7 +15,7 @@ Bu proje, seçilen bir kitabın tanıtımını yapan basit ve şık bir frontend
 
 ## 📸 Ekran Görüntüsü
 
-> Buraya ekran görüntüsü veya proje görünümünü gösteren bir görsel ekleyebilirsin.
+![Kitap Tanıtım Sayfası](./assets/kitap-sayfasi-resim.png)
 
 ## 🔧 Kurulum ve Çalıştırma
 
