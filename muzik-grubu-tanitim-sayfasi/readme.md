@@ -17,7 +17,7 @@ Bu projeyi yapmaktaki amacım:
 
 ## 🖼️ Ekran Görüntüsü
 
-![Müzik Grubu Sitesi](./assets/muzik-grubu-tanitimi.png)
+![Müzik Grubu Sitesi](./images/muzik-grubu-tanitimi.png)
 ---
 
 ## 🎧 Site İçeriği
