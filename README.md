@@ -6,10 +6,10 @@ Bu repo, frontend geliştirme sürecimde öğrendiklerimi pekiştirmek için yap
 
 Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 
-| Proje Adı | Açıklama |
-| --------- | -------- |
-|[Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır.  |
-|[Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi.  |
+| Proje Adı | Açıklama | Demo |
+| --------- | -------- | ---- |
+| [Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır. | — |
+| [Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) |
 
 
 ## Amaç
