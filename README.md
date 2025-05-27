@@ -9,6 +9,8 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 | Proje Adı | Açıklama |
 | --------- | -------- |
 |[Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır.  |
+|[Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi.  |
+
 
 ## Amaç
 

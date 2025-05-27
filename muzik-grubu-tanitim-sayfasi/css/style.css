@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+}
+body{
+   background-color: black;
+  color: aliceblue;
+}
+header {
+  position: relative; 
+}
+header img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 200px;
+  height: auto;
+}
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.logo img:hover{
+    box-shadow: 4px 8px #FF4500 ;
+}
+hr{
+  background-color: rgb(117, 32, 1);
+  width: 100%;
+  height: 5px;
+}
+main {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 1300px;
+  margin: auto;
+  padding: 2rem;
+  background-color: black;
+}
+.band-about {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start; /* dikey hizalama */
+  justify-content: center; /* yatayda ortalama */
+  flex-wrap: wrap; /* mobilde alta geçmesi için */
+}
+.resim img {
+  width: 650px;
+  border-radius: 5px;
+  display: block;
+  border-radius: 60px;
+}
+.text {
+  color: antiquewhite;
+  max-width: 500px;
+}
+.title{
+  position: sticky;
+  top: 10px;
+  margin-bottom: 1.5rem;
+  font-weight: bolder;
+  background-color: black;
+  font-size: 32px;
+  text-align: right;
+  z-index: 10;
+}
+.title span{
+  color: #FF4500;
+  font-weight: bold;
+}
+.title:hover{
+  opacity: 0.6;
+  background-color: black;
+  cursor:default;
+}
+.listen-us img{
+  border-radius: 50%;
+  width: 75px;
+  position: fixed;
+  bottom: 20px;
+  right: 15px;
+  z-index: 200;
+}
+.listen-us img:hover{
+  box-shadow: 4px 5px 9px #FF4500 ;
+}
+.albums{
+display:grid;
+grid-template-columns:repeat(5,1fr) ;
+gap: 15px;
+}
+.song{
+  border: 1px solid whitesmoke;
+  border-radius:12px;
+    opacity: 0.6;
+}
+.song:hover{
+  opacity: 1;
+}
