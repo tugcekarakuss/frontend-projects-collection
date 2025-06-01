@@ -19,7 +19,11 @@ Bu projeyi yapmaktaki amacım:
 
 ![Müzik Grubu Sitesi](./images/muzik-grubu-tanitimi.png)
 ---
+## 🔗 Demo
 
+Projeyi canlı olarak incelemek için:
+
+👉 [Canlı Demo](https://tugce.42web.io)
 ## 🎧 Site İçeriği
 
 - 🎵 **Grup adı ve logo**
