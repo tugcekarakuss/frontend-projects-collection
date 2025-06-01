@@ -18,15 +18,18 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 > ✅ Yeni projeler eklendikçe bu tablo güncellenecektir.
 
 ## Amaç
-
-Bu projelerin amacı:
+Bu repo, kendi öğrenme sürecimi belgelemek, frontend becerilerimi geliştirmek ve portfolyomda sergilemek amacıyla oluşturulmuştur. Her proje gerçek dünyada kullanılabilir düzeyde olmayabilir, fakat iyi bir başlangıç noktası sağlamaktadır.
 - HTML, CSS ve JavaScript bilgilerini uygulamalı olarak geliştirmek
 - Farklı UI/UX yapıları denemek
 - Kodlama alışkanlıkları edinmek
 - Git ve GitHub pratiği yapmak
 - Figma öğrenip pratik yapmak
 
+  
+---
+## 🙌 Katkı
 
+Projeler kişisel gelişim amaçlıdır fakat pull request ve issue'lara her zaman açığım. Geri bildirimlerinizi beklerim!
 
 ---
 > 🛠️ Bu repo aktif olarak geliştirilmektedir. Yeni projeler eklendikçe güncellenecektir.
