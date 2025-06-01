@@ -16,7 +16,7 @@ Projeye ait Figma tasarımını aşağıdaki bağlantıdan inceleyebilirsiniz:
 
 Aşağıda projenin tasarımına/kodlanmış haline ait bir önizleme bulabilirsiniz:
 
-![Boxchampy Website Ekran Görüntüsü](./boxchampy-website/boxchampy-website.png)
+![Boxchampy Website Ekran Görüntüsü](./boxchampy-website/image/boxchampy-website.png)
 
 ## 💻 GitHub Reposu
 
