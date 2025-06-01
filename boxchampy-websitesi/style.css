@@ -1,0 +1,213 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Saira Condensed', Inter, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body{
+    background-color: #D9D9D9;
+}
+header {
+  width: 100%;
+  height: 700px;
+  background-image: 
+    linear-gradient(to left, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 1) 100%),
+    url("image/arka.svg");
+  background-position: 100% left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+}
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 160px;
+    padding: 5px 160px;
+    transform:translatex(-160px) translatey(10px);
+}
+.menu{
+    position: absolute;
+    align-items: flex-end;
+    top: 40px;
+    right: 160px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 160px;
+}
+nav ul{
+    display: flex;
+    gap: 30px;
+   
+
+}
+nav li{
+    list-style:none;
+    align-items: center;
+    color:grey;
+    text-transform: uppercase;
+    transition: text-decoration 0.9s ease;
+}
+nav img,
+.sign-up{
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-items: normal;
+}
+nav li:hover{
+    text-decoration: 4px underline #A40A0A  ;
+    color: #ffffff;
+}
+
+.header-text{
+    color: #ffff;
+    position: absolute;
+    top: 150px;
+    left: 160px;
+    font-size: 130px;
+}
+.header-text span{
+    color:#A40A0A ;
+    font-weight: bold;
+    font-family: 'Saira Condensed', sans-serif;
+}
+.services{
+   padding: 80px 160px;
+   box-shadow: 0px 4px 72px rgba(148, 8, 8, 0.5);
+    padding-left:6px;
+    padding-top:0px;
+    transform:translatex(-42px) translatey(-140px);
+    margin-left:600px;
+    margin-right:0px;
+    width:500px;
+    height:125px;
+    padding-right:22px;
+    background-color: #ffffff;
+}
+.services ul{
+    display: flex;
+    justify-content: center; 
+    gap:100px ;
+}
+.services li{
+    color: #A40A0A;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    width: 120px;
+    height: auto;
+    text-align: center;
+}
+.services li img {
+    align-items: center;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 10px; /* ikonla yazı arasına boşluk */
+}
+.content{
+    display: flex;
+}
+ .content-image img{
+    display:flex;
+    justify-content: left;
+    height: 502px;
+    padding: 0px 160px;
+
+} 
+.content .heading{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 110%;
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+/*başlık önündeki çizgi*/
+.content .heading::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 5px;
+    background-color: #A40A0A;
+}
+.content p{
+    margin-right: 160px;
+    font-family:'Inter',Saira Condensed, sans-serif;
+    white-space:pre-line;
+    text-transform:none;
+    font-weight:300;
+    color: #434343;
+    line-height: 170%;
+    padding: 0 18px;
+    text-align: justify;
+}
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 40px 160px;
+  margin-top: 50px;
+}
+
+.footer-left,
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-left .footer-heading span{
+    color: #A40A0A;
+}
+.footer-right {
+    margin-top: 30px;
+  align-items: flex-end;
+}
+.footer-right .icons img{
+    width: 30px;
+}
+.footer-right .icons ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.footer-right .info {
+  display: flex;
+  gap: 40px;
+}
+.footer-right .info p{
+    font-family:'Inter', Saira Condensed, sans-serif ;
+    line-height: 170%;
+}
+.footer-left .footer-heading {
+  font-size: 50px;
+  line-height: 110%;
+}
+
+.footer-left .mail {
+  font-family: 'Inter', Saira Condensed, sans-serif;
+  font-size: 16px;
+  line-height: 170%;
+  font-weight: normal;
+  text-transform: lowercase;
+}
