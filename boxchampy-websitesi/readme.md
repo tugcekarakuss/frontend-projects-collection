@@ -30,6 +30,7 @@ Kodlara GitHub üzerinden ulaşmak için:
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
+
 ```bash
 git clone https://github.com/tugcekarakuss/frontend-mini-projeler.git
 cd frontend-mini-projeler/boxchampy-website
