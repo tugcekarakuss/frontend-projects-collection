@@ -4,32 +4,39 @@ Bu repo, frontend geliştirme sürecimde öğrendiklerimi pekiştirmek için yap
 
 Bazı projelerde Figma ile yapılmış kullanıcı arayüzü tasarımları da bulunmaktadır. Bu tasarımlara ilgili bağlantılardan ulaşabilirsiniz.
 
-## Proje Listesi
+---
+
+## 📂 Proje Listesi
 
 Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 
-
 | Proje Adı | Açıklama | Demo | Figma Tasarımı |
 |-----------|----------|------|----------------|
-| [Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır. | — | — |
-| [Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) | — |
-| [Boxchampy Website](./boxchampy-websitesi) | Figma pratiği için bir eğitim videosu eşliğinde tasarlanan modern web arayüzü. | — | [Tasarımı Görüntüle]([https://www.figma.com/design/9aLddbOjKQAXKtGfaClz5l/Boxchampy-website?m=auto&t=PWt5YOmwGVYGughg-6](https://www.figma.com/design/NXuWdNnPjp3bdOcCF56G6m/Boxchampy?node-id=0-1&p=f&t=yxlXeeX4W7CRigvr-0) |
+| [📚 Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır. | — | — |
+| [🎸 Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) | — |
+| [🥊 Boxchampy Website](./boxchampy-websitesi) | Figma pratiği için bir eğitim videosu eşliğinde tasarlanan modern web arayüzü. | — | [Tasarımı Görüntüle](https://www.figma.com/design/NXuWdNnPjp3bdOcCF56G6m/Boxchampy?node-id=0-1&t=yxlXeeX4W7CRigvr-0) |
 
 > ✅ Yeni projeler eklendikçe bu tablo güncellenecektir.
 
-## Amaç
-Bu repo, kendi öğrenme sürecimi belgelemek, frontend becerilerimi geliştirmek ve portfolyomda sergilemek amacıyla oluşturulmuştur. Her proje gerçek dünyada kullanılabilir düzeyde olmayabilir, fakat iyi bir başlangıç noktası sağlamaktadır.
-- HTML, CSS ve JavaScript bilgilerini uygulamalı olarak geliştirmek
-- Farklı UI/UX yapıları denemek
-- Kodlama alışkanlıkları edinmek
-- Git ve GitHub pratiği yapmak
-- Figma öğrenip pratik yapmak
-
-  
 ---
+
+## 🎯 Amaç
+
+Bu repo, kendi öğrenme sürecimi belgelemek, frontend becerilerimi geliştirmek ve portfolyomda sergilemek amacıyla oluşturulmuştur. Her proje gerçek dünyada kullanılabilir düzeyde olmayabilir, fakat iyi bir başlangıç noktası sağlamaktadır.
+
+- HTML, CSS ve JavaScript bilgilerini uygulamalı olarak geliştirmek  
+- Farklı UI/UX yapıları denemek  
+- Kodlama alışkanlıkları edinmek  
+- Git ve GitHub pratiği yapmak  
+- Figma öğrenip pratik yapmak  
+
+---
+
 ## 🙌 Katkı
 
-Projeler kişisel gelişim amaçlıdır fakat pull request ve issue'lara her zaman açığım. Geri bildirimlerinizi beklerim!
+Projeler kişisel gelişim amaçlıdır fakat pull request ve issue'lara her zaman açığım.  
+Geri bildirimlerinizi memnuniyetle karşılarım!
 
 ---
+
 > 🛠️ Bu repo aktif olarak geliştirilmektedir. Yeni projeler eklendikçe güncellenecektir.
