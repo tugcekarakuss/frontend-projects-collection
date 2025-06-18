@@ -10,7 +10,7 @@ Boxchampy, sade ve modern bir web sitesi arayüzüdür. Bu proje, hem kullanıc�
 
 Projeye ait Figma tasarımını aşağıdaki bağlantıdan inceleyebilirsiniz:
 
-👉 [Figma Tasarımı Görüntüle](https://www.figma.com/design/9aLddbOjKQAXKtGfaClz5l/Boxchampy-website?m=auto&t=PWt5YOmwGVYGughg-6)
+👉 [Figma Tasarımı Görüntüle](https://www.figma.com/design/NXuWdNnPjp3bdOcCF56G6m/Boxchampy?node-id=0-1&t=yxlXeeX4W7CRigvr-0)
 
 ## 🖼️ Ekran Görüntüsü
 
