@@ -2,14 +2,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: aliceblue;
+  color: #F0F8FF;
 }
 body{
-   background-color: black;
-  color: aliceblue;
+  background-color: black;
+  color: #F0F8FF;
 }
+/*header kısmı başladı*/
 header {
   position: relative; 
+  border-bottom: 1px solid  rgb(117, 32, 1);
 }
 header img {
   width: 100%;
@@ -21,13 +23,25 @@ header img {
   top: 30px;
   left: 30px;
   width: 200px;
-  height: auto;
+}
+@media (max-width: 768px) {
+  .logo {
+    width: 120px;
+    top: 15px;
+    left: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .logo {
+    width: 80px;
+    top: 10px;
+    left: 10px;
+  }
 }
 .logo img {
   width: 100%;
   height: auto;
 }
-
 .logo img:hover{
     box-shadow: 4px 8px #FF4500 ;
 }
@@ -36,6 +50,9 @@ hr{
   width: 100%;
   height: 5px;
 }
+/*header kısmı bitti.*/
+
+/*içerik kısmı başladı*/
 main {
   font-family: 'Segoe UI', sans-serif;
   font-size: 16px;
@@ -45,6 +62,7 @@ main {
   padding: 2rem;
   background-color: black;
 }
+/*hakkında başladı*/
 .band-about {
   display: flex;
   gap: 3rem;
@@ -54,16 +72,14 @@ main {
 }
 .resim img {
   width: 650px;
-  border-radius: 5px;
   display: block;
   border-radius: 60px;
 }
 .text {
-  color: antiquewhite;
+  color: #F0F8FF;
   max-width: 500px;
 }
 .title{
-  position: sticky;
   top: 10px;
   margin-bottom: 1.5rem;
   font-weight: bolder;
@@ -81,6 +97,9 @@ main {
   background-color: black;
   cursor:default;
 }
+/*hakkında bitti*/
+
+/*şimdi dinle başladı*/
 .listen-us img{
   border-radius: 50%;
   width: 75px;
@@ -92,16 +111,144 @@ main {
 .listen-us img:hover{
   box-shadow: 4px 5px 9px #FF4500 ;
 }
-.albums{
-display:grid;
-grid-template-columns:repeat(5,1fr) ;
-gap: 15px;
-}
 .song{
-  border: 1px solid whitesmoke;
+  border: 1px solid #F0F8FF;
   border-radius:12px;
     opacity: 0.6;
 }
 .song:hover{
   opacity: 1;
 }
+.site-footer {
+  background-color: black;
+  color: #F0F8FF;
+  padding: 2rem 1rem;
+  font-family: 'Segoe UI', sans-serif;
+  border-top: 2px solid rgb(117, 32, 1);
+  z-index: 00;
+}
+/*şimdi dinle bitti*/
+
+/*footer başladı*/
+.footer-content {
+  max-width: 1300px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.footer-brand img {
+  width: 150px;
+  border-radius: 8px;
+  opacity: 0.9;
+  transition: opacity 0.3s, box-shadow 0.3s;
+}
+
+.footer-brand img:hover {
+  opacity: 1;
+  box-shadow: 0 0 8px #FF4500;
+}
+
+.footer-slogan {
+  margin-top: 1rem;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 1.5;
+  opacity: 0.8;
+  color: #F0F8FF;
+  border-left: 4px solid #FF4500;
+  padding-left: 1rem;
+  transition: opacity 0.3s, color 0.3s;
+}
+
+.footer-slogan:hover {
+  opacity: 1;
+  color: #FF4500;
+  cursor: default;
+}
+
+.footer-links, .footer-social {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footer-links a {
+  color: #F0F8FF;
+  text-decoration: none;
+  font-size: 16px;
+  opacity: 0.8;
+  transition: opacity 0.3s, color 0.3s;
+}
+
+.footer-links a:hover {
+  opacity: 1;
+  color: #FF4500;
+  cursor: pointer;
+}
+
+.footer-social a img {
+  width: 32px;
+  height: 32px;
+  opacity: 0.8;
+  transition: opacity 0.3s, box-shadow 0.3s;
+  border-radius: 50%;
+}
+
+.footer-social a img:hover {
+  opacity: 1;
+  box-shadow: 0 0 8px #FF4500;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 14px;
+  opacity: 0.6;
+  border-top: 1px solid rgb(117, 32, 1);
+  padding-top: 1rem;
+}
+
+/* Mobil uyumu */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-links, .footer-social {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .footer-links a, .footer-social a {
+    margin: 0 0.5rem;
+  }
+
+  .footer-slogan {
+    font-size: 13px;
+    padding-left: 0.75rem;
+    border-left: 3px solid #FF4500;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-slogan {
+    font-size: 12px;
+  }
+
+  .footer-brand img {
+    width: 120px;
+  }
+
+  .footer-social a img {
+    width: 28px;
+    height: 28px;
+  }
+}
+/*footer bitti*/
