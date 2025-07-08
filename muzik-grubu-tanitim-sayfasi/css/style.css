@@ -151,7 +151,6 @@ main {
   opacity: 1;
   box-shadow: 0 0 8px #FF4500;
 }
-
 .footer-slogan {
   margin-top: 1rem;
   font-style: italic;
@@ -163,19 +162,16 @@ main {
   padding-left: 1rem;
   transition: opacity 0.3s, color 0.3s;
 }
-
 .footer-slogan:hover {
   opacity: 1;
   color: #FF4500;
   cursor: default;
 }
-
 .footer-links, .footer-social {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
 }
-
 .footer-links a {
   color: #F0F8FF;
   text-decoration: none;
@@ -183,13 +179,11 @@ main {
   opacity: 0.8;
   transition: opacity 0.3s, color 0.3s;
 }
-
 .footer-links a:hover {
   opacity: 1;
   color: #FF4500;
   cursor: pointer;
 }
-
 .footer-social a img {
   width: 32px;
   height: 32px;
@@ -197,12 +191,10 @@ main {
   transition: opacity 0.3s, box-shadow 0.3s;
   border-radius: 50%;
 }
-
 .footer-social a img:hover {
   opacity: 1;
   box-shadow: 0 0 8px #FF4500;
 }
-
 .footer-bottom {
   text-align: center;
   margin-top: 2rem;
@@ -211,7 +203,6 @@ main {
   border-top: 1px solid rgb(117, 32, 1);
   padding-top: 1rem;
 }
-
 /* Mobil uyumu */
 @media (max-width: 768px) {
   .footer-content {
@@ -236,7 +227,6 @@ main {
     border-left: 3px solid #FF4500;
   }
 }
-
 @media (max-width: 480px) {
   .footer-slogan {
     font-size: 12px;
