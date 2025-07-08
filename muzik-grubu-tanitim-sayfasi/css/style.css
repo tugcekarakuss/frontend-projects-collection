@@ -12,11 +12,13 @@ body{
 header {
   position: relative; 
   border-bottom: 1px solid  rgb(117, 32, 1);
+  overflow: hidden;
 }
 header img {
   width: 100%;
   height: auto;
   display: block;
+  object-fit: cover;
 }
 .logo {
   position: absolute;
@@ -71,10 +73,24 @@ main {
   flex-wrap: wrap; /* mobilde alta geçmesi için */
 }
 .resim img {
-  width: 650px;
-  display: block;
+  width: 100%;
+  max-width: 650px;
+  height: auto;
   border-radius: 60px;
+  display: block;
 }
+@media (max-width: 768px) {
+  .resim img {
+    border-radius: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .resim img {
+    border-radius: 20px;
+  }
+}
+
 .text {
   color: #F0F8FF;
   max-width: 500px;
@@ -100,25 +116,43 @@ main {
 /*hakkında bitti*/
 
 /*şimdi dinle başladı*/
-.listen-us img{
-  border-radius: 50%;
-  width: 75px;
+.listen-us {
   position: fixed;
   bottom: 20px;
   right: 15px;
   z-index: 200;
 }
-.listen-us img:hover{
-  box-shadow: 4px 5px 9px #FF4500 ;
+
+.listen-us a img {
+  border-radius: 50%;
+  width: 75px;
+  max-width: 100%;
+  height: auto;
+  opacity: 0.85;
+  transition: opacity 0.3s, box-shadow 0.3s;
 }
-.song{
-  border: 1px solid #F0F8FF;
-  border-radius:12px;
-    opacity: 0.6;
-}
-.song:hover{
+
+.listen-us a img:hover {
   opacity: 1;
+  box-shadow: 4px 5px 9px #FF4500;
 }
+
+/* Daha küçük ekranlar için butonu küçült */
+@media (max-width: 768px) {
+  .listen-us a img {
+    width: 60px;
+  }
+}
+
+@media (max-width: 480px) {
+  .listen-us a img {
+    width: 50px;
+  }
+}
+
+/*şimdi dinle bitti*/
+
+/*footer başladı*/
 .site-footer {
   background-color: black;
   color: #F0F8FF;
@@ -127,9 +161,6 @@ main {
   border-top: 2px solid rgb(117, 32, 1);
   z-index: 00;
 }
-/*şimdi dinle bitti*/
-
-/*footer başladı*/
 .footer-content {
   max-width: 1300px;
   margin: auto;
@@ -211,10 +242,16 @@ main {
     text-align: center;
   }
 
-  .footer-links, .footer-social {
+   .footer-social {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+  }
+  .footer-links{
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 1rem;
+    justify-content: flex-start;
   }
 
   .footer-links a, .footer-social a {
