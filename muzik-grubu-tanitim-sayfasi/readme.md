@@ -13,7 +13,6 @@ Bu projeyi yapmaktaki amacım:
 - HTML, CSS ve Bootstrap ile sınırlı imkânlarla etkileyici bir sonuç ortaya koymak
 - Dahili **Spotify bağlantısı** ve **müzik oynatıcı** gibi detaylarla deneyimi zenginleştirmek
 - Tamamen **responsive** bir yapı kurarak mobil ve masaüstü uyumluluğu sağlamak
-
 ---
 
 ## 🖼️ Ekran Görüntüsü
