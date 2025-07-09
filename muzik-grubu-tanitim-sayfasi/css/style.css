@@ -10,8 +10,8 @@ body{
 }
 /*header kısmı başladı*/
 header {
-  height: 100vh;
-  background-image: url('./../images/header.jpg');
+  height: 100dvh;
+  background-image: url('../images/header.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,9 +19,9 @@ header {
   border-bottom: 1px solid  rgb(117, 32, 1);
   overflow: hidden;
 }
-@media (max-width: 768){
+@media (max-width: 768px){
   header{
-    background-image: url('./../images/header.jpg');
+    background-image: url('../images/header.jpg');
   }
 }
 .logo {
