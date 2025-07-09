@@ -88,13 +88,11 @@ main {
     border-radius: 30px;
   }
 }
-
 @media (max-width: 480px) {
   .resim img {
     border-radius: 20px;
   }
 }
-
 .text {
   color: #F0F8FF;
   max-width: 500px;
@@ -126,7 +124,6 @@ main {
   right: 15px;
   z-index: 200;
 }
-
 .listen-us a img {
   border-radius: 50%;
   width: 75px;
@@ -135,19 +132,16 @@ main {
   opacity: 0.85;
   transition: opacity 0.3s, box-shadow 0.3s;
 }
-
 .listen-us a img:hover {
   opacity: 1;
   box-shadow: 4px 5px 9px #FF4500;
 }
-
 /* Daha küçük ekranlar için butonu küçült */
 @media (max-width: 768px) {
   .listen-us a img {
     width: 60px;
   }
 }
-
 @media (max-width: 480px) {
   .listen-us a img {
     width: 50px;
@@ -180,7 +174,6 @@ main {
   opacity: 0.9;
   transition: opacity 0.3s, box-shadow 0.3s;
 }
-
 .footer-brand img:hover {
   opacity: 1;
 }
@@ -243,7 +236,6 @@ main {
     align-items: center;
     text-align: center;
   }
-
    .footer-social {
     flex-direction: row;
     flex-wrap: wrap;
@@ -255,11 +247,9 @@ main {
     gap: 1rem;
     justify-content: flex-start;
   }
-
   .footer-links a, .footer-social a {
     margin: 0 0.5rem;
   }
-
   .footer-slogan {
     font-size: 13px;
     padding-left: 0.75rem;
@@ -270,11 +260,9 @@ main {
   .footer-slogan {
     font-size: 12px;
   }
-
   .footer-brand img {
     width: 120px;
   }
-
   .footer-social a img {
     width: 28px;
     height: 28px;
