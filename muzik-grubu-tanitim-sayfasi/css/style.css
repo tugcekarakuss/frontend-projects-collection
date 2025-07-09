@@ -10,15 +10,19 @@ body{
 }
 /*header kısmı başladı*/
 header {
+  height: 100vh;
+  background-image: url('./../images/header.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   position: relative; 
   border-bottom: 1px solid  rgb(117, 32, 1);
   overflow: hidden;
 }
-header img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
+@media (max-width: 768){
+  header{
+    background-image: url('./../images/header.jpg');
+  }
 }
 .logo {
   position: absolute;
@@ -149,7 +153,6 @@ main {
     width: 50px;
   }
 }
-
 /*şimdi dinle bitti*/
 
 /*footer başladı*/
@@ -180,7 +183,6 @@ main {
 
 .footer-brand img:hover {
   opacity: 1;
-  box-shadow: 0 0 8px #FF4500;
 }
 .footer-slogan {
   margin-top: 1rem;
