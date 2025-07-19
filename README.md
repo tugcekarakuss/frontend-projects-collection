@@ -15,6 +15,7 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 | [📚 Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfasıdır. | — | — |
 | [🎸 Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify bağlantılı, görsel odaklı sade bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) | — |
 | [🥊 Boxchampy Website](./boxchampy-websitesi) | Figma pratiği için bir eğitim videosu eşliğinde tasarlanan modern web arayüzü. | — | [Tasarımı Görüntüle](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
+| [🪑Bootstrap Mobilya Websitesi](./bootstrap-mobilya-websitesi) | Tamamen bootstrap ile hazırlanmış bir mobilya sitesidir | — | — |
 
 > ✅ Yeni projeler eklendikçe bu tablo güncellenecektir.
 
