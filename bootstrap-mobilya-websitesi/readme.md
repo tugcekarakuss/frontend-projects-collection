@@ -2,7 +2,7 @@
 
 Bu proje, Bootstrap'in hazır şablonlarından (template) yola çıkılarak oluşturulmuş bir web sitesidir. Amaç, Bootstrap yapısını ve bileşenlerini kullanarak hızlı, responsive ve düzenli bir site tasarımı geliştirmektir.
 
-![Proje Görseli](./bootstrap-temelli-site/screenshot.png)
+![Proje Görseli](../bootstrap-mobilya-websitesi/img/bootstrap-mobilya-sitesi.png)
 
 ## 🔧 Kullanılan Teknolojiler
 
