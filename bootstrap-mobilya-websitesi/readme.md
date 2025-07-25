@@ -1,6 +1,7 @@
 # Bootstrap Template Tabanlı Web Sitesi
 
-Bu proje, Bootstrap'in hazır şablonlarından (template) yola çıkılarak oluşturulmuş bir web sitesidir. Amaç, Bootstrap yapısını ve bileşenlerini kullanarak hızlı, responsive ve düzenli bir site tasarımı geliştirmektir.<br><br>
+Bu proje, Bootstrap'in hazır şablonlarından (template) yola çıkılarak oluşturulmuş bir web sitesidir. Amaç, Bootstrap yapısını ve bileşenlerini kullanarak hızlı, responsive ve düzenli bir site tasarımı geliştirmektir.
+
 ## 🔗 Demo
 
 Projeyi canlı olarak incelemek için:
