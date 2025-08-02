@@ -1,7 +1,7 @@
-# Bootstrap Template Tabanlı Web Sitesi
+# Mobilya Web Sitesi Klonu (Bootstrap)
 
-Bu proje, Bootstrap'in hazır şablonlarından (template) yola çıkılarak oluşturulmuş bir web sitesidir. Amaç, Bootstrap yapısını ve bileşenlerini kullanarak hızlı, responsive ve düzenli bir site tasarımı geliştirmektir.
-
+Bu proje, [Tolv](tolv.dk) sitesinin tasarımı birebir yeniden oluşturularak (UI clone) geliştirilmiştir.
+Amaç, gerçek bir kullanıcı arayüzünü Bootstrap kullanarak yeniden inşa ederek responsive yapı, bileşen kullanımı ve grid sistemini pratiğe dökmektir.
 ## 🔗 Demo
 
 Projeyi canlı olarak incelemek için:
@@ -25,5 +25,17 @@ Projeyi canlı olarak incelemek için:
 - Var olan tasarımlar üzerinden kişiselleştirme çalışmaları yapma  
 - HTML/CSS ve framework bilgilerini pratikle pekiştirme  
 - Kendi projelerime temel olacak hazır yapılarla deneyim kazanma  
+
+## 📘Öğrenilen Noktalar
+
+- Bootstrap grid sistemini uygulama  
+- Hazır bileşenlerle sayfa tasarımı  
+- Inline style kullanımının sınırlılıkları
+
+## 🚧Geliştirme Planı
+
+- CSS dosyası ile yeniden yapılandırma  
+- Temiz kod prensiplerine uygun refactor  
+- **Scroll animasyonları**: Bölümler sayfa aşağı kaydırıldıkça animasyonla görünür hale gelsin (örneğin AOS, IntersectionObserver kullanımı)
 
 
