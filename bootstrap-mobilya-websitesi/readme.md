@@ -1,6 +1,6 @@
 # Mobilya Web Sitesi Klonu (Bootstrap)
 
-Bu proje, [Tolv](tolv.dk) sitesinin tasarımı birebir yeniden oluşturularak (UI clone) geliştirilmiştir.
+Bu proje, [tolv.dk](https://tolv.dk) sitesinin tasarımı birebir yeniden oluşturularak (UI clone) geliştirilmiştir.
 Amaç, gerçek bir kullanıcı arayüzünü Bootstrap kullanarak yeniden inşa ederek responsive yapı, bileşen kullanımı ve grid sistemini pratiğe dökmektir.
 ## 🔗 Demo
 
