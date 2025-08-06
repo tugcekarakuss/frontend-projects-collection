@@ -6,7 +6,7 @@ Amaç, gerçek bir kullanıcı arayüzünü Bootstrap kullanarak yeniden inşa e
 
 Projeyi canlı olarak incelemek için:
 
-👉 [Canlı Demo](https://tugce.42web.io)
+👉 [Canlı Demo](https://my-site.is-best.net)
 
 ---
 
