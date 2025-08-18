@@ -1,41 +1,39 @@
-# Mobilya Web Sitesi Klonu (Bootstrap)
+# Furniture Website Clone (Bootstrap)
 
-Bu proje, [tolv.dk](https://tolv.dk) sitesinin tasarımı birebir yeniden oluşturularak (UI clone) geliştirilmiştir.
-Amaç, gerçek bir kullanıcı arayüzünü Bootstrap kullanarak yeniden inşa ederek responsive yapı, bileşen kullanımı ve grid sistemini pratiğe dökmektir.
+This project is a UI clone of the [tolv.dk](https://tolv.dk) website.  
+The goal is to rebuild a real user interface using Bootstrap to practice responsive layouts, component usage, and the grid system.
+
 ## 🔗 Demo
 
-Projeyi canlı olarak incelemek için:
+Check out the live demo here:
 
-👉 [Canlı Demo](https://my-site.is-best.net)
+👉 [Live Demo](https://my-site.is-best.net)
 
 ---
 
-![Proje Görseli](../bootstrap-mobilya-websitesi/img/bootstrap-mobilya-websitesi.png)
+![Project Screenshot](../bootstrap-mobilya-websitesi/img/bootstrap-mobilya-websitesi.png)
 
+## 🔧 Technologies Used
 
-## 🔧 Kullanılan Teknolojiler
+- **HTML5** – Page structure  
+- **CSS3** – Styling (Bootstrap + custom CSS when needed)  
+- **Bootstrap 5** – Responsive grid system, ready-made components, and overall layout  
 
-- **HTML5** – Sayfa iskeleti  
-- **CSS3** – Stil düzenlemeleri (Bootstrap + gerektiğinde özel CSS)  
-- **Bootstrap 5** – Responsive grid sistemi, hazır bileşenler ve genel yapı  
+## 🎯 Purpose
 
-## 🎯 Amaç
+- Understand the structure by examining Bootstrap templates  
+- Practice customization based on existing designs  
+- Reinforce HTML/CSS and framework knowledge through practice  
+- Gain experience with ready-made layouts that can serve as a foundation for my own projects  
 
-- Bootstrap şablonlarını inceleyerek yapıyı anlama  
-- Var olan tasarımlar üzerinden kişiselleştirme çalışmaları yapma  
-- HTML/CSS ve framework bilgilerini pratikle pekiştirme  
-- Kendi projelerime temel olacak hazır yapılarla deneyim kazanma  
+## 📘 Key Learnings
 
-## 📘Öğrenilen Noktalar
+- Applying the Bootstrap grid system  
+- Designing pages using pre-built components  
+- Limitations of inline styles  
 
-- Bootstrap grid sistemini uygulama  
-- Hazır bileşenlerle sayfa tasarımı  
-- Inline style kullanımının sınırlılıkları
+## 🚧 Development Plan
 
-## 🚧Geliştirme Planı
-
-- CSS dosyası ile yeniden yapılandırma  
-- Temiz kod prensiplerine uygun refactor  
-- **Scroll animasyonları**: Bölümler sayfa aşağı kaydırıldıkça animasyonla görünür hale gelsin (örneğin AOS, IntersectionObserver kullanımı)
-
-
+- Reorganize with a CSS file  
+- Refactor according to clean code principles  
+- **Scroll Animations**: Make sections appear with animation as the page scrolls (e.g., using AOS or IntersectionObserver)
