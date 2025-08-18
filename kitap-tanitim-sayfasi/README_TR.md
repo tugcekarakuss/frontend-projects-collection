@@ -1,4 +1,4 @@
-# 📖 Kitap Tanıtım Sayfası 
+# 📖 Müzik Grubu Tanıtım Sayfası 
 Bu proje, bir kitabın tanıtımını yapan basit ve görsel odaklı bir HTML/CSS projesidir. Kitap kapağı, başlık, yazar bilgisi ve açıklama gibi temel bilgileri içeren, sade ve estetik bir sayfa tasarımı yapılmıştır.
 
  ## 📸 Ekran Görüntüsü 
