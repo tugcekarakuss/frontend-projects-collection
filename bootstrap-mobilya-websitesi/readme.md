@@ -1,5 +1,6 @@
 # Furniture Website Clone (Bootstrap)
 
+🇹🇷 Türkçe açıklama için: [Bootstrap Mobilya Websitesi](./README_TR.md#bootstrap-mobilya-websitesi)<br><br>
 This project is a UI clone of the [tolv.dk](https://tolv.dk) website.  
 The goal is to rebuild a real user interface using Bootstrap to practice responsive layouts, component usage, and the grid system.
 
