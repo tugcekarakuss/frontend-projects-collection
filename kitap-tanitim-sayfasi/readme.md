@@ -1,5 +1,5 @@
 # 📖 Book Showcase Page
-
+🇹🇷 Türkçe açıklama için: [Kitap Tanıtım Sayfası](./README_TR.md#kitap-tanitim-sayfasi)<br><br>
 This project is a simple, visually-focused HTML/CSS page that showcases a book. The page design is clean and aesthetic, containing basic information such as the book cover, title, author, and description.
 
 ## 📸 Screenshot
