@@ -25,5 +25,5 @@ Below is a screenshot of the project:
 To run the project on your local machine:
 
 ```bash
-git clone https://github.com/your-username/frontend-mini-projeler.git
-cd frontend-mini-projeler/kitap-tanitim-sayfasi
+git clone https://github.com/your-username/frontend-projects-collection.git
+cd frontend-projects-collection/kitap-tanitim-sayfasi
