@@ -1,6 +1,6 @@
 # 🎶 Music Band Showcase Site
 
-🇹🇷 Türkçe açıklama için: [Kitap Tanıtım Sayfası](./README_TR.md#kitap-tanitim-sayfasi)<br><br>
+🇹🇷 Türkçe açıklama için: [Müzik Grubu Tanıtım Sayfası](./README_TR.md#muzik-grubu-tanitim-sayfasi)<br><br>
 This project is a **music band showcase page** fully developed using **HTML, CSS, and Bootstrap**, enriched with both visual and audio content. It not only introduces the band’s style, members, and albums but also provides a music listening experience for users. During this project, I worked on various frontend skills such as typography, layout, visual harmony, audio integration, and responsive design.
 
 ---
