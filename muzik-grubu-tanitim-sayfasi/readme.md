@@ -1,51 +1,52 @@
-# 🎶 Müzik Grubu Tanıtım Sitesi
+# 🎶 Music Band Showcase Site
 
-Bu proje, hem görsel hem işitsel içeriklerle zenginleştirilmiş, tamamen **HTML, CSS ve Bootstrap** kullanılarak hazırlanmış bir **müzik grubu tanıtım sayfasıdır**. Grubun tarzını, üyelerini ve albümlerini tanıtmakla kalmaz; aynı zamanda kullanıcıya müzik dinleme deneyimi de sunar. Proje süresince tipografi, yerleşim, görsel uyum, ses entegrasyonu ve responsive tasarım gibi birçok frontend becerisi üzerinde çalıştım.
+This project is a **music band showcase page** fully developed using **HTML, CSS, and Bootstrap**, enriched with both visual and audio content. It not only introduces the band’s style, members, and albums but also provides a music listening experience for users. During this project, I worked on various frontend skills such as typography, layout, visual harmony, audio integration, and responsive design.
 
 ---
 
-## 🎯 Projenin Amacı
+## 🎯 Project Purpose
 
-Bu projeyi yapmaktaki amacım:
-- Görsel ve içerik uyumu olan etkileyici bir tanıtım sitesi tasarlamak
-- Tipografi ve layout konusunda pratik yapmak
-- Gerçek hayatta karşılaşılabilecek bir projeyi simüle etmek
-- HTML, CSS ve Bootstrap ile sınırlı imkânlarla etkileyici bir sonuç ortaya koymak
-- Dahili **Spotify bağlantısı** ve **müzik oynatıcı** gibi detaylarla deneyimi zenginleştirmek
-- Tamamen **responsive** bir yapı kurarak mobil ve masaüstü uyumluluğu sağlamak
+The goals of this project were to:  
+- Design an impressive showcase site with visual and content harmony  
+- Practice typography and layout  
+- Simulate a real-world project scenario  
+- Deliver an appealing result using only HTML, CSS, and Bootstrap  
+- Enhance user experience with embedded **Spotify links** and a **music player**  
+- Ensure a fully **responsive** layout for both mobile and desktop devices  
+
 ---
 
-## 🖼️ Ekran Görüntüsü
+## 🖼️ Screenshot
 
-![Müzik Grubu Sitesi](./images/muzik-grubu-tanitimi.png)
+![Music Band Site](./images/muzik-grubu-tanitimi.png)
 
 ---
 
 ## 🔗 Demo
 
-Projeyi canlı olarak incelemek için:
+Check out the live demo here:
 
-👉 [Canlı Demo](https://tugce.42web.io)
-
----
-
-## 🎧 Site İçeriği
-
-- 🎵 **Grup adı ve logo**
-- 💽 **Albüm kapakları** ve dinleme deneyimi
-- 🔊 **Gömülü Spotify bağlantısı** (dinlenebilir içerik)
-- 🎼 **Ses oynatıcı** ile grup müziklerinden örnekler
-- 📱 **Responsive tasarım** desteği (mobil, tablet, masaüstü)
-- 🎨 **Tipografi ve yerleşim odaklı tasarım**
-- 🌈 **Mini geçiş efektleri**
+👉 [Live Demo](https://tugce.42web.io)
 
 ---
 
-## 🔧 Kullanılan Teknolojiler
+## 🎧 Site Content
 
-| Teknoloji     | Açıklama                             |
+- 🎵 **Band name and logo**  
+- 💽 **Album covers** with listening experience  
+- 🔊 **Embedded Spotify link** (playable content)  
+- 🎼 **Audio player** with music samples from the band  
+- 📱 **Responsive design** support (mobile, tablet, desktop)  
+- 🎨 **Typography and layout-focused design**  
+- 🌈 **Mini transition effects**  
+
+---
+
+## 🔧 Technologies Used
+
+| Technology     | Description                          |
 | -------------- | ------------------------------------ |
-| HTML5         | Sayfa yapısı ve içerik iskeleti      |
-| CSS3          | Görsel tasarım ve animasyonlar       |
-| Bootstrap     | Responsive grid ve komponentler      |
-| Spotify Embed | Müzik entegrasyonu                   |
+| HTML5           | Page structure and content skeleton  |
+| CSS3            | Visual design and animations         |
+| Bootstrap       | Responsive grid and components       |
+| Spotify Embed   | Music integration                    |
