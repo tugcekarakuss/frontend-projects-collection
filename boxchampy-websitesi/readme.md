@@ -1,5 +1,6 @@
 # Boxchampy Website
 
+🇹🇷 Türkçe açıklama için: [Boxchampy Websitesi](./README_TR.md#boxchampy-websitesi)<br><br>
 This project was inspired by [this YouTube video](https://youtu.be/JGLfyTDgfDc) and developed accordingly. The design, created using Figma, was coded with HTML and CSS.
 
 ## ✨ Project Summary
@@ -25,5 +26,5 @@ Below is a preview of the project’s design/coded version:
 To run the project on your local machine:
 
 ```bash
-git clone https://github.com/tugcekarakuss/frontend-mini-projeler.git
-cd frontend-mini-projeler/boxchampy-website
+git clone https://github.com/tugcekarakuss/frontend-projects-collection.git
+cd frontend-projects-collection/boxchampy-website
