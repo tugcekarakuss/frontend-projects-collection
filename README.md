@@ -1,5 +1,7 @@
 # Frontend Mini Projects
 
+🇹🇷 Türkçe açıklama için: [README_TR.md](./README_TR.md)
+<br><br>
 This repository contains small-scale projects I have created to reinforce what I have learned during my frontend development journey. Each project has been developed using core technologies such as HTML, CSS, and JavaScript. Some projects also utilize additional frameworks and libraries.
 
 Some projects include user interface designs created in Figma. You can access these designs via the provided links.
