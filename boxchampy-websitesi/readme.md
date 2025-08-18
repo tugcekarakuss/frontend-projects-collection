@@ -1,35 +1,28 @@
 # Boxchampy Website
 
-Bu proje, [bu YouTube videosundan](https://youtu.be/JGLfyTDgfDc) ilham alınarak tasarlandı ve geliştirildi. Figma kullanılarak oluşturulan tasarım, HTML ve CSS ile kodlandı.
+This project was inspired by [this YouTube video](https://youtu.be/JGLfyTDgfDc) and developed accordingly. The design, created using Figma, was coded with HTML and CSS.
 
-## ✨ Proje Özeti
+## ✨ Project Summary
 
-Boxchampy, sade ve modern bir web sitesi arayüzüdür. Bu proje, hem kullanıcı arayüzü tasarımı hem de frontend geliştirme becerilerimi geliştirmek için oluşturulmuştur.
+Boxchampy is a clean and modern web interface. This project was created to improve both my UI design and frontend development skills.
 
-## 🎨 Figma Tasarımı
+## 🎨 Figma Design
 
-Projeye ait Figma tasarımını aşağıdaki bağlantıdan inceleyebilirsiniz:
+You can check the Figma design of the project via the link below:
 
-👉 [Figma Tasarımı Görüntüle](https://www.figma.com/community/file/1519362285643212664/boxchampy)
+👉 [View Figma Design](https://www.figma.com/community/file/1519362285643212664/boxchampy)
 
-## 🖼️ Ekran Görüntüsü
+## 🖼️ Screenshot
 
-Aşağıda projenin tasarımına/kodlanmış haline ait bir önizleme bulabilirsiniz:
+Below is a preview of the project’s design/coded version:
 
-![Boxchampy Website Ekran Görüntüsü](./image/boxchampy-website.png)
+![Boxchampy Website Screenshot](./image/boxchampy-website.png)
 
-## 💻 GitHub Reposu
+> Note: This project is located inside the `boxchampy-website` folder within the `frontend-mini-projeler` repository.
 
-Kodlara GitHub üzerinden ulaşmak için:
+## 🚀 Running the Project
 
-👉 [GitHub Repository](https://github.com/tugcekarakuss/frontend-mini-projeler)
-
-> Not: Bu proje, `frontend-mini-projeler` reposu içerisinde `boxchampy-website` klasörü içinde yer almaktadır.
-
-## 🚀 Projeyi Çalıştırmak
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
+To run the project on your local machine:
 
 ```bash
 git clone https://github.com/tugcekarakuss/frontend-mini-projeler.git
