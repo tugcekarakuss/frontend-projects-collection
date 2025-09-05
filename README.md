@@ -18,6 +18,9 @@ Each folder represents a project. The number of projects will grow over time.
 | [🎸 Music Band Showcase Page](./muzik-grubu-tanitim-sayfasi) | A clean, visual-focused promotion site with Spotify integration. | [Live Demo](https://tugce.42web.io) | — |
 | [🥊 Boxchampy Website](./boxchampy-websitesi) | Modern web interface designed as a practice exercise with a Figma tutorial video. | — | [View Design](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
 | [🪑 Bootstrap Furniture Website](./bootstrap-mobilya-websitesi) | A furniture website fully built with Bootstrap. | [Live Demo](https://my-site.is-best.net) | — |
+| [🍪 Cookie Monster Card](./cookie-monster) | An interactive Cookie Monster card that follows the cookie-shaped cursor. | — | — |
+
+
 
 > ✅ This table will be updated as new projects are added.
 
