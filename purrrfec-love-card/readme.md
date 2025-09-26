@@ -42,7 +42,7 @@ It was created as a sweet surprise for a friend.
 
 
 ## 🎥 Project Demo
-- **Live Demo:** [Click here to try it!](../)  
+- **Live Demo:** [Click here to try it!](https://purrrfectlovecard.netlify.app/)  
 - **Preview Video:**  
   ![Project Video](../purrrfec-love-card/img/purrfect-love-video.gif)  
 

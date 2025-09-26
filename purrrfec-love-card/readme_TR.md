@@ -39,7 +39,7 @@ Arkadaş için tatlı bir sürpriz olarak hazırlanmıştır.
 ---
 
 ## 🎥 Proje Videosu
-- **Canlı Demo:** [Buradan deneyin](../)  
+- **Canlı Demo:** [Buradan deneyin](https://purrrfectlovecard.netlify.app/)  
 - **Önizleme Videosu:**  
   ![Proje Videosu](../purrrfec-love-card/img/purrfect-love-video.gif)  
 
