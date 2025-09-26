@@ -19,7 +19,7 @@ Each folder represents a project. The number of projects will grow over time.
 | [🥊 Boxchampy Website](./boxchampy-websitesi) | Modern web interface designed as a practice exercise with a Figma tutorial video. | — | [View Design](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
 | [🪑 Bootstrap Furniture Website](./bootstrap-mobilya-websitesi) | A furniture website fully built with Bootstrap. | [Live Demo](https://my-site.is-best.net) | — |
 | [🍪 Cookie Monster Card](./cookie-monster) | An interactive Cookie Monster card that follows the cookie-shaped cursor. | — | — |
-
+| [💖 Purrrfect Love Card](./purrrfec-love-card) | A cute, interactive love card with heart/confetti animation and GIFs. | [Live Demo](https://purrrfectlovecard.netlify.app/) | [View Design](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
 
 
 > ✅ This table will be updated as new projects are added.
