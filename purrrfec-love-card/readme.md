@@ -1,6 +1,6 @@
 # Cute Card Project
 
-🇹🇷 Türkçe açıklama için: [README_TR.md](./README_TR.md)
+🇹🇷 Türkçe açıklama için: [README_TR.md](./readme_TR.md)
 
 This project is a fun and **cute card application**.  
 It was first designed in **Figma**, then developed using HTML, CSS, and JavaScript.  
