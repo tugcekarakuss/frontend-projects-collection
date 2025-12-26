@@ -16,7 +16,7 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 | [🎸 Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify entegrasyonu olan, görselliğe odaklanan temiz bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) | — |
 | [🥊 Boxchampy Websitesi](./boxchampy-websitesi) | Bir Figma eğitim videosu ile çalışılarak hazırlanmış modern web arayüzü. | — | [Tasarımı Görüntüle](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
 | [🪑 Bootstrap Mobilya Websitesi](./bootstrap-mobilya-websitesi) | Tamamen Bootstrap kullanılarak geliştirilmiş bir mobilya sitesi. | [Canlı Demo](https://my-site.is-best.net) | — |
-| [🍪 Kurabiye Canavarı Kartı](./cookie-monster) | Kurabiye şeklindeki imleci takip eden, interaktif Kurabiye Canavarı kartı. | — | — |
+| [🍪 Kurabiye Canavarı Kartı](./cookie-monster) | Kurabiye şeklindeki imleci takip eden, interaktif Kurabiye Canavarı kartı. | [Canlı Demo](https://cookieemonster.netlify.app/) | — |
 | [💖 Purrrfect Love Card](./purrrfec-love-card) | Kalp/confetti animasyonu ve GIF’lerle sevimli, interaktif bir aşk kartı. | [Canlı Demo](https://purrrfectlovecard.netlify.app/) | [Tasarımı Görüntüle](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
 
 
