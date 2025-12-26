@@ -1,26 +1,76 @@
-# 🍪 Cookie Monster Card
+# Cookie Monster 👀🍪
 
-🇹🇷 Türkçe açıklama için: [README_TR.md](./README_TR.md)
+🌍 **Türkçe README:** [README.tr.md](./README.tr.md)
 
-A fun card design themed around the Cookie Monster.  
-The eyes inside the card follow a cookie-shaped cursor.  
-Built using HTML, CSS, and JavaScript.
+Cookie Monster is an interactive frontend project where the character’s eyes follow the user’s mouse movement in real time within a simple card-based layout.
 
-## 🎥 Demo
-<!-- Add a screenshot, GIF, or live link here -->
-<!-- Example: ![Demo](./demo.gif) -->
+This project was built to better understand mouse events, screen coordinates, and the relationship between DOM elements using JavaScript, while creating small but engaging UI interactions.
+
+🔗 **Live Demo:** https://cookieemonster.netlify.app/
+
+---
+
+## 👀 Project Preview
+
+![Cookie Monster Preview](./img/project-preview.gif)
+
+---
+
+## 🎯 Project Goal
+
+The main goals of this project are:
+
+- Capturing user interaction through mouse movement
+- Relating mouse coordinates to DOM element positions
+- Creating visual feedback using both CSS and JavaScript
+- Understanding the fundamentals of interactive UI behavior through a simple idea
+
+---
+
+## ⚙️ How It Works
+
+- The `mousemove` event is listened to on the page
+- The mouse X and Y coordinates are captured
+- The center point of each eye element is calculated
+- The angle between the mouse position and the eye center is computed
+- This angle is applied to the eyes using CSS `transform`
+
+As a result, the eyes smoothly follow the mouse movement.
+
+---
 
 ## 🚀 Features
-- Custom cookie-shaped cursor
-- Eyes follow the cursor (using JavaScript)
-- Responsive card design
-- Pure HTML + CSS + JS, no library dependencies
 
-## 🛠️ Technologies Used
+- Clean and minimal card-based layout
+- Eyes that track the mouse position in real time
+- JavaScript-driven interaction
+- Lightweight and dependency-free
+- Responsive design
+
+---
+
+## 🛠️ Built With
+
 - HTML5
-- CSS3 (variables, flexbox)
-- JavaScript (DOM manipulation, eventListener)
+- CSS3
+- JavaScript (Vanilla JS)
 
-# ⚠️ Warning
-This project is still in progress! JavaScript functionality and responsive settings are being worked on. 🚧
+---
 
+## 📚 What I Learned
+
+- Using the `mousemove` event
+- Working with mouse coordinates
+- Calculating element positions with `getBoundingClientRect()`
+- Applying dynamic motion with CSS `transform`
+- Building visual interactions with JavaScript
+
+---
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/username/cookie-monster.git
+cd cookie-monster
