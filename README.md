@@ -4,7 +4,7 @@
 <br><br>
 This repository contains small-scale projects I have created to reinforce what I have learned during my frontend development journey. Each project has been developed using core technologies such as HTML, CSS, and JavaScript. Some projects also utilize additional frameworks and libraries.
 
-Some projects include user interface designs created in Figma. You can access these designs via the provided links.
+Some projects include Figma UI designs used for development or practice purposes. You can access them via the provided links.
 
 ---
 
@@ -18,7 +18,7 @@ Each folder represents a project. The number of projects will grow over time.
 | [🎸 Music Band Showcase Page](./muzik-grubu-tanitim-sayfasi) | A clean, visual-focused promotion site with Spotify integration. | [Live Demo](https://tugce.42web.io) | — |
 | [🥊 Boxchampy Website](./boxchampy-websitesi) | Modern web interface designed as a practice exercise with a Figma tutorial video. | — | [View Design](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
 | [🪑 Bootstrap Furniture Website](./bootstrap-mobilya-websitesi) | A furniture website fully built with Bootstrap. | [Live Demo](https://my-site.is-best.net) | — |
-| [🍪 Cookie Monster Card](./cookie-monster) | An interactive Cookie Monster card that follows the cookie-shaped cursor. | [Live Demo](https://cookieemonster.netlify.app/) | — |
+| [🍪 Cookie Monster Card](./cookie-monster) | An interactive Cookie Monster card that follows the cookie-shaped cursor. | [Live Demo](https://cookieemonster.netlify.app/) | [View Design](https://www.figma.com/community/file/1530305855415503769/interactive-eye-following-card) |
 | [💖 Purrrfect Love Card](./purrrfec-love-card) | A cute, interactive love card with heart/confetti animation and GIFs. | [Live Demo](https://purrrfectlovecard.netlify.app/) | [View Design](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
 
 
