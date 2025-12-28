@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nova Lens</title>
-    <link rel="shortcut icon" href="img/ico.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
     <!-- meta tags -->
     <meta
       name="description"
@@ -71,6 +71,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!-- header -->
     <header class="header">
       <nav class="nav">
         <div class="nav__brand-group">
@@ -113,9 +114,62 @@
 
         <div class="scroll-indicator">
           <span>Scroll Down</span>
-          <i class="fa-solid fa-arrow-down fa-2xl"></i>
+          <i class="fa-solid fa-arrow-down fa-xl"></i>
         </div>
       </div>
     </header>
+    <!-- about -->
+    <article class="about">
+      <div class="about__info">
+        <p class="section-name">About</p>
+        <h2 class="section-hero">Personalize your smart glasses for a unique experience.</h2>
+        <div class="section-content">
+          <p>Make your smart glasses an extension of your personal style. Choose from a range of elegant lenses and frames.</p>
+          <p>Customize features to suit your preferences.</p>
+        </div>
+      </div>
+
+      <div class="product-slider">
+        <div class="product-slider__controls">
+          <button class="product-slider__btn" aria-label="Previous product"><i class="fa-solid fa-arrow-left fa-2xl"></i></button>
+          <button class="product-slider__btn" aria-label="Next product"><i class="fa-solid fa-arrow-right fa-2xl"></i></button>
+        </div>
+        <div class="product-list">
+
+          <div class="product-card">
+            <img src="img/Glasses-1.png" alt="Sync2 x-m Intelligent Glasses">
+            <div class="product-card__info">
+              <span class="product-card__tag">Intelligent glasses </span>
+              <div class="product-card__about">
+                <span class="product-card__id">Sync2 x-m</span>
+                <span class="product-card__price">$324 USD</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="product-card">
+            <img src="img/Glasses-2.png" alt="Sync2 x-m Intelligent Glasses">
+            <div class="product-card__info">
+              <span class="product-card__tag">Intelligent glasses </span>
+              <div class="product-card__about">
+                <span class="product-card__id">MC80 FT-6</span>
+                <span class="product-card__price">$488 USD</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="product-card">
+            <img src="img/Glasses-3.png" alt="Sync2 x-m Intelligent Glasses">
+            <div class="product-card__info">
+              <span class="product-card__tag">Intelligent glasses </span>
+              <div class="product-card__about">
+                <span class="product-card__id">Nexus 43-M</span>
+                <span class="product-card__price">$520 USD</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
   </body>
 </html>
