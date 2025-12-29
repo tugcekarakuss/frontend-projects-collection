@@ -36,10 +36,7 @@
       name="twitter:description"
       content="Design-inspired frontend practice project built with HTML, CSS, and JavaScript. Focused on responsive layout and clean CSS architecture."
     />
-    <meta
-      name="twitter:image"
-      content="./img/project-preview.png"
-    />
+    <meta name="twitter:image" content="./img/project-preview.png" />
     <meta name="twitter:creator" content="@Tuvcirella" />
     <!-- fonts -->
     <!-- Inter -->
@@ -75,9 +72,9 @@
     <header class="header">
       <nav class="nav">
         <div class="nav__brand-group">
-          <img src="img/logo.png" alt="Ana Logo" class="nav__logo" />
+          <img src="img/logo.png" alt="Main Logo" class="nav__logo" />
           <div class="nav__header">
-            <img src="img/Logo-2.svg" alt="İkincil Logo" class="nav__logo" />
+            <img src="img/Logo-2.svg" alt="Second Logo" class="nav__logo" />
             <h1 class="nav__title">CREATING THE FUTURE OF VISION</h1>
           </div>
 
@@ -122,22 +119,30 @@
     <article class="about">
       <div class="about__info">
         <p class="section-name">About</p>
-        <h2 class="section-hero">Personalize your smart glasses for a unique experience.</h2>
+        <h2 class="section-hero">
+          Personalize your smart glasses for a unique experience.
+        </h2>
         <div class="section-content">
-          <p>Make your smart glasses an extension of your personal style. Choose from a range of elegant lenses and frames.</p>
+          <p>
+            Make your smart glasses an extension of your personal style. Choose
+            from a range of elegant lenses and frames.
+          </p>
           <p>Customize features to suit your preferences.</p>
         </div>
       </div>
 
       <div class="product-slider">
         <div class="product-slider__controls">
-          <button class="product-slider__btn" aria-label="Previous product"><i class="fa-solid fa-arrow-left fa-2xl"></i></button>
-          <button class="product-slider__btn" aria-label="Next product"><i class="fa-solid fa-arrow-right fa-2xl"></i></button>
+          <button class="product-slider__btn" aria-label="Previous product">
+            <i class="fa-solid fa-arrow-left fa-2xl"></i>
+          </button>
+          <button class="product-slider__btn" aria-label="Next product">
+            <i class="fa-solid fa-arrow-right fa-2xl"></i>
+          </button>
         </div>
         <div class="product-list">
-
           <div class="product-card">
-            <img src="img/Glasses-1.png" alt="Sync2 x-m Intelligent Glasses">
+            <img src="img/Glasses-1.png" alt="Sync2 x-m Intelligent Glasses" />
             <div class="product-card__info">
               <span class="product-card__tag">Intelligent glasses </span>
               <div class="product-card__about">
@@ -148,7 +153,7 @@
           </div>
 
           <div class="product-card">
-            <img src="img/Glasses-2.png" alt="Sync2 x-m Intelligent Glasses">
+            <img src="img/Glasses-2.png" alt="Sync2 x-m Intelligent Glasses" />
             <div class="product-card__info">
               <span class="product-card__tag">Intelligent glasses </span>
               <div class="product-card__about">
@@ -159,7 +164,7 @@
           </div>
 
           <div class="product-card">
-            <img src="img/Glasses-3.png" alt="Sync2 x-m Intelligent Glasses">
+            <img src="img/Glasses-3.png" alt="Sync2 x-m Intelligent Glasses" />
             <div class="product-card__info">
               <span class="product-card__tag">Intelligent glasses </span>
               <div class="product-card__about">
@@ -171,5 +176,89 @@
         </div>
       </div>
     </article>
+
+    <footer class="footer">
+      <div class="footer__header">
+        <div class="brand">
+          <img src="img/logo.png" alt="Main logo" />
+          <p>Join the community</p>
+        </div>
+        <p class="footer__heading">
+          Explore the world with style and connectivity and discover the future
+          today
+        </p>
+      </div>
+
+      <div class="footer__links">
+        <div class="newsletter">
+          <h3>Join The NEWSLETTER</h3>
+          <form action="#" method="POST" class="newsletter__form">
+            <div class="form-group">
+              <label class="label" for="newsletter-name">Name</label>
+              <input
+                type="text"
+                id="newsletter-name"
+                placeholder="Your Name Here"
+                required
+              />
+            </div>
+
+            <div class="form-group">
+              <label class="label" for="newsletter-email">Email</label>
+              <input
+                type="email"
+                id="newsletter-email"
+                placeholder="Your Email Here"
+                required
+              />
+            </div>
+
+            <button type="submit" class="btn-submit">Subscribe</button>
+          </form>
+        </div>
+
+        <nav class="social-links">
+          <h3>Social Links</h3>
+          <ul class="social-links__list">
+            <li class="social-links__item">
+              <a href="#" class="social-links__link"
+                ><span>Instagram</span>
+                <i
+                  class="fa-solid fa-arrow-right fa-rotate-by"
+                  style="--fa-rotate-angle: -40deg"
+                ></i
+              ></a>
+            </li>
+            <li class="social-links__item">
+              <a href="#" class="social-links__link"
+                ><span>Twitter</span>
+                <i
+                  class="fa-solid fa-arrow-right fa-rotate-by"
+                  style="--fa-rotate-angle: -40deg"
+                ></i
+              ></a>
+            </li >
+            <li class="social-links__item">
+              <a href="#" class="social-links__link"
+                ><span>Email</span>
+                <i
+                  class="fa-solid fa-arrow-right fa-rotate-by"
+                  style="--fa-rotate-angle: -40deg"
+                ></i
+              ></a>
+            </li >
+            <li class="social-links__item">
+              <a href="#" class="social-links__link"
+                ><span>Medium</span>
+                <i
+                  class="fa-solid fa-arrow-right fa-rotate-by"
+                  style="--fa-rotate-angle: -40deg"
+                ></i
+              ></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </footer>
   </body>
 </html>
