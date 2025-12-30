@@ -40,21 +40,18 @@
     <meta name="twitter:creator" content="@Tuvcirella" />
     <!-- fonts -->
     <!-- Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,800;1,14..32,800&display=swap"
       rel="stylesheet"
     />
     <!-- Roboto -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,700;1,75..100,700&display=swap"
       rel="stylesheet"
     />
     <!-- Roboto Mono -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,500;1,500&display=swap"
@@ -72,13 +69,13 @@
     <header class="header">
       <nav class="nav">
         <div class="nav__brand-group">
-          <img src="img/logo.png" alt="Main Logo" class="nav__logo" />
+          <img src="img/logo.png" alt="Nova Lens logo" class="nav__logo" />
           <div class="nav__header">
-            <img src="img/Logo-2.svg" alt="Second Logo" class="nav__logo" />
-            <h1 class="nav__title">CREATING THE FUTURE OF VISION</h1>
+            <img src="img/Logo-2.svg" alt="Nova Lens wordmark" class="nav__logo" />
+            <h1 class="nav__title font-inter">CREATING THE FUTURE OF VISION</h1>
           </div>
 
-          <ul class="nav__menu">
+          <ul class="nav__menu font-roboto">
             <li class="nav__item">
               <a href="#" class="nav__link">Products</a>
             </li>
@@ -90,16 +87,16 @@
         </div>
 
         <div class="nav__actions">
-          <button class="btn btn--cart">Card (0)</button>
-          <button class="nav__toggle" aria-label="Menu">
+          <button class="nav__cart font-roboto">Cart (0)</button>
+          <button class="nav__toggle" aria-label="Menu" aria-expanded="false">
             <i class="fa-solid fa-bars fa-xl"></i>
           </button>
         </div>
       </nav>
 
-      <div class="header__footer">
+      <div class="header__content font-roboto-mono">
         <div class="header__info">
-          <i class="fa-regular fa-copyright fa-2xl"></i>
+          <i class="fa-regular fa-copyright fa-2xl" aria-hidden="true"></i>
           <div class="header__description">
             <p>
               Make your smart glasses an extension of your personal style.
@@ -111,18 +108,18 @@
 
         <div class="scroll-indicator">
           <span>Scroll Down</span>
-          <i class="fa-solid fa-arrow-down fa-xl"></i>
+          <i class="fa-solid fa-arrow-down fa-xl" aria-hidden="true"></i>
         </div>
       </div>
     </header>
     <!-- about -->
-    <article class="about">
+    <section class="about">
       <div class="about__info">
-        <p class="section-name">About</p>
-        <h2 class="section-hero">
+        <p class="about__label font-roboto-mono">About</p>
+        <h2 class="about__hero font-inter">
           Personalize your smart glasses for a unique experience.
         </h2>
-        <div class="section-content">
+        <div class="about__content font-roboto-mono">
           <p>
             Make your smart glasses an extension of your personal style. Choose
             from a range of elegant lenses and frames.
@@ -144,8 +141,10 @@
           <div class="product-card">
             <img src="img/Glasses-1.png" alt="Sync2 x-m Intelligent Glasses" />
             <div class="product-card__info">
-              <span class="product-card__tag">Intelligent glasses </span>
-              <div class="product-card__about">
+              <span class="product-card__tag font-roboto"
+                >Intelligent glasses
+              </span>
+              <div class="product-card__about font-roboto">
                 <span class="product-card__id">Sync2 x-m</span>
                 <span class="product-card__price">$324 USD</span>
               </div>
@@ -153,10 +152,12 @@
           </div>
 
           <div class="product-card">
-            <img src="img/Glasses-2.png" alt="Sync2 x-m Intelligent Glasses" />
+            <img src="img/Glasses-2.png" alt="MC80 FT-6 Intelligent Glasses" />
             <div class="product-card__info">
-              <span class="product-card__tag">Intelligent glasses </span>
-              <div class="product-card__about">
+              <span class="product-card__tag font-roboto"
+                >Intelligent glasses
+              </span>
+              <div class="product-card__about font-roboto">
                 <span class="product-card__id">MC80 FT-6</span>
                 <span class="product-card__price">$488 USD</span>
               </div>
@@ -164,10 +165,12 @@
           </div>
 
           <div class="product-card">
-            <img src="img/Glasses-3.png" alt="Sync2 x-m Intelligent Glasses" />
+            <img src="img/Glasses-3.png" alt="Nexus 43-M Intelligent Glasses" />
             <div class="product-card__info">
-              <span class="product-card__tag">Intelligent glasses </span>
-              <div class="product-card__about">
+              <span class="product-card__tag font-roboto"
+                >Intelligent glasses
+              </span>
+              <div class="product-card__about font-roboto">
                 <span class="product-card__id">Nexus 43-M</span>
                 <span class="product-card__price">$520 USD</span>
               </div>
@@ -175,51 +178,50 @@
           </div>
         </div>
       </div>
-    </article>
-
+    </section>
     <footer class="footer">
       <div class="footer__header">
-        <div class="brand">
-          <img src="img/logo.png" alt="Main logo" />
+        <div class="brand font-roboto">
+          <img src="img/logo.png" alt="Nova Lens logo" />
           <p>Join the community</p>
         </div>
-        <p class="footer__heading">
+        <p class="footer__heading font-inter">
           Explore the world with style and connectivity and discover the future
           today
         </p>
       </div>
-
       <div class="footer__links">
         <div class="newsletter">
-          <h3>Join The NEWSLETTER</h3>
-          <form action="#" method="POST" class="newsletter__form">
+          <h3 class="font-roboto">Join The NEWSLETTER</h3>
+          <form action="#" method="POST" class="newsletter__form font-roboto">
             <div class="form-group">
               <label class="label" for="newsletter-name">Name</label>
               <input
+                class="font-roboto-mono input"
                 type="text"
                 id="newsletter-name"
                 placeholder="Your Name Here"
                 required
               />
             </div>
-
             <div class="form-group">
               <label class="label" for="newsletter-email">Email</label>
               <input
+                class="font-roboto-mono input"
                 type="email"
                 id="newsletter-email"
                 placeholder="Your Email Here"
                 required
               />
             </div>
-
-            <button type="submit" class="btn-submit">Subscribe</button>
+            <button type="submit" class="btn-submit font-roboto-mono">
+              Subscribe
+            </button>
           </form>
         </div>
-
         <nav class="social-links">
-          <h3>Social Links</h3>
-          <ul class="social-links__list">
+          <h3 class="font-roboto">Social Links</h3>
+          <ul class="social-links__list font-roboto-mono">
             <li class="social-links__item">
               <a href="#" class="social-links__link"
                 ><span>Instagram</span>
@@ -237,7 +239,7 @@
                   style="--fa-rotate-angle: -40deg"
                 ></i
               ></a>
-            </li >
+            </li>
             <li class="social-links__item">
               <a href="#" class="social-links__link"
                 ><span>Email</span>
@@ -246,7 +248,7 @@
                   style="--fa-rotate-angle: -40deg"
                 ></i
               ></a>
-            </li >
+            </li>
             <li class="social-links__item">
               <a href="#" class="social-links__link"
                 ><span>Medium</span>
