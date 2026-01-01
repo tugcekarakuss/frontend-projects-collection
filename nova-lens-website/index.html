@@ -69,7 +69,7 @@
     <header class="header">
       <nav class="nav">
         <div class="nav__brand-group">
-          <img src="img/logo.png" alt="Nova Lens logo" class="nav__logo" />
+          <img src="img/logo.png" alt="Nova Lens logo" class="nav__logo-main" />
           <div class="nav__header">
             <img src="img/Logo-2.svg" alt="Nova Lens wordmark" class="nav__logo" />
             <h1 class="nav__title font-inter">CREATING THE FUTURE OF VISION</h1>
@@ -130,10 +130,10 @@
 
       <div class="product-slider">
         <div class="product-slider__controls">
-          <button class="product-slider__btn" aria-label="Previous product">
+          <button class="product-slider__btn prev" onclick="showImage" aria-label="Previous product">
             <i class="fa-solid fa-arrow-left fa-2xl"></i>
           </button>
-          <button class="product-slider__btn" aria-label="Next product">
+          <button class="product-slider__btn next" onclick="showImage" aria-label="Next product">
             <i class="fa-solid fa-arrow-right fa-2xl"></i>
           </button>
         </div>
@@ -262,5 +262,6 @@
         </nav>
       </div>
     </footer>
+    <script src="script.js"></script>
   </body>
 </html>

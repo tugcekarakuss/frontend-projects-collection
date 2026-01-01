@@ -283,3 +283,123 @@ button{
     color:var(--white);
     text-decoration: none;
 }
+@media (max-width: 1024px) {
+  /* NAV */
+  .nav {
+    justify-content: space-between;
+  }
+  .nav__menu,
+  .nav__actions,
+  .fa-regular {
+    display: none;
+  }
+  /* HEADER */
+  .header__content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-md);
+  }
+  .header__info {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+  /* ABOUT */
+  .about__info {
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  .about__content {
+    align-self: flex-start;
+  }
+  /* PRODUCT */
+  .product-slider {
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  .product-list {
+    gap: var(--space-xs);
+  }
+  .product-card img {
+    max-width: 300px;
+  }
+  /* FOOTER */
+  .footer {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+  .footer__header{
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+  .footer__links {
+    flex-direction: column;
+    gap: var(--space-lg);
+    padding-left: 0;
+  }
+  
+  .newsletter,
+  .social-links {
+    width: 100%;
+    align-self: flex-start;
+    padding-right: 0;
+  }
+}
+@media (max-width: 640px) {
+.nav__brand-group{
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 0;
+}
+  /* NAV */
+  .nav {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+  .nav__menu,
+  .nav__actions,
+  .fa-regular,.nav__logo {
+    display: none;
+  }
+  /* HEADER */
+  .header {
+    min-height: 100dvh;
+  }
+  .header__content {
+    padding: var(--space-sm);
+  }
+  .scroll-indicator {
+    display: none;
+  }
+  /* TEXT */
+  .font-inter {
+    max-width: 100%;
+    letter-spacing: -2px;
+  }
+  /* ABOUT */
+  .about {
+    padding: var(--space-md) var(--space-sm);
+  }
+  /* PRODUCT */
+  .product-list {
+    flex-direction: row;
+  }
+  .product-card img {
+    max-width: 80vw;
+  }
+  /* FOOTER */
+  .footer {
+    padding: var(--space-md) var(--space-sm);
+  }
+  .newsletter {
+    padding: var(--space-sm);
+  }
+  .social-links {
+    margin-top: var(--space-md);
+  }
+  .social-links__link {
+
+    gap: var(--space-sm);
+  }
+}
+
