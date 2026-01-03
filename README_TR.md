@@ -8,7 +8,7 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 
 ---
 
-## 📂 Proje Listesi
+## Proje Listesi
 
 Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 
@@ -20,13 +20,15 @@ Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
 | [🪑 Bootstrap Mobilya Websitesi](./bootstrap-mobilya-websitesi) | Tamamen Bootstrap kullanılarak geliştirilmiş bir mobilya sitesi. | [Canlı Demo](https://my-site.is-best.net) | — |
 | [🍪 Kurabiye Canavarı Kartı](./cookie-monster) | Kurabiye şeklindeki imleci takip eden, interaktif Kurabiye Canavarı kartı. | [Canlı Demo](https://cookieemonster.netlify.app/) |[Tasarımı Görüntüle](https://www.figma.com/community/file/1530305855415503769/interactive-eye-following-card)  |
 | [💖 Purrrfect Love Card](./purrrfec-love-card) | Kalp/confetti animasyonu ve GIF’lerle sevimli, interaktif bir aşk kartı. | [Canlı Demo](https://purrrfectlovecard.netlify.app/) | [Tasarımı Görüntüle](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
+| [🕶️ Nova Lens](./nova-lens-website/) | Responsive yapı, temiz CSS mimarisi ve etkileşimli JavaScript mantığına odaklanan pixel-perfect bir akıllı gözlük arayüz implementasyonu. | [Canlı Demo](https://nova-lens.netlify.app/) | [Figma Tasarımı](https://www.figma.com/community/file/1586123003360449417/nova-lens) |
+
 
 
 > ✅ Bu tabloya yeni projeler eklendikçe güncellenecektir.
 
 ---
 
-## 🎯 Amaç
+## Amaç
 
 Bu depo, öğrenme sürecimi belgelendirmek, frontend becerilerimi geliştirmek ve portföyümde sergilemek amacıyla oluşturulmuştur. Her proje üretim ortamına hazır olmayabilir, fakat sağlam bir başlangıç noktası sunmaktadır.
 
@@ -38,7 +40,7 @@ Bu depo, öğrenme sürecimi belgelendirmek, frontend becerilerimi geliştirmek 
 
 ---
 
-## 🙌 Katkılar
+## Katkılar
 
 Projeler kişisel gelişim amacıyla yapılmıştır, ancak her zaman pull request ve issue’lara açığım.  
 Geri bildirimlerinizi memnuniyetle karşılarım!

@@ -1,6 +1,6 @@
 # Frontend Mini Projects
 
-🇹🇷 Türkçe açıklama için: [README_TR.md](./README_TR.md)
+🇹🇷 Türkçe açıklama için: [readme_tr.md](./nova-lens-website/readme_tr.md)
 <br><br>
 This repository contains small-scale projects I have created to reinforce what I have learned during my frontend development journey. Each project has been developed using core technologies such as HTML, CSS, and JavaScript. Some projects also utilize additional frameworks and libraries.
 
@@ -20,13 +20,14 @@ Each folder represents a project. The number of projects will grow over time.
 | [🪑 Bootstrap Furniture Website](./bootstrap-mobilya-websitesi) | A furniture website fully built with Bootstrap. | [Live Demo](https://my-site.is-best.net) | — |
 | [🍪 Cookie Monster Card](./cookie-monster) | An interactive Cookie Monster card that follows the cookie-shaped cursor. | [Live Demo](https://cookieemonster.netlify.app/) | [View Design](https://www.figma.com/community/file/1530305855415503769/interactive-eye-following-card) |
 | [💖 Purrrfect Love Card](./purrrfec-love-card) | A cute, interactive love card with heart/confetti animation and GIFs. | [Live Demo](https://purrrfectlovecard.netlify.app/) | [View Design](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
+| [🕶️ Nova Lens](./nova-lens-website/) | A pixel-perfect smart glasses UI implementation focused on responsive layout, clean CSS architecture, and interactive JavaScript logic. | [Live Demo](https://nova-lens.netlify.app/) | [View Design](https://www.figma.com/community/file/1586123003360449417/nova-lens) |
 
 
 > ✅ This table will be updated as new projects are added.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository has been created to document my learning process, improve my frontend skills, and showcase them in my portfolio. Not every project may be production-ready, but they provide a solid starting point.
 
@@ -38,7 +39,7 @@ This repository has been created to document my learning process, improve my fro
 
 ---
 
-## 🙌 Contributions
+## Contributions
 
 These projects are for personal development, but I am always open to pull requests and issues.  
 I welcome your feedback!
