@@ -6,6 +6,8 @@ The primary goal of this project was **design-to-code accuracy**, not visual red
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/228de408-2dd0-497c-ac02-733f47c847f0/deploy-status)](https://app.netlify.com/projects/nova-lens/deploys)
 
+![Nova Lens Preview](./img/project-preview.png)
+
 ---
 
 ## Project Links
@@ -66,12 +68,6 @@ The challenge was centered on **layout precision, responsiveness, and interactio
 - Scroll-based reveal animations
 - Fully responsive layout (mobile → desktop)
 - Clean and maintainable CSS structure
-
----
-
-## Preview
-
-![Nova Lens Preview](./img/project-preview.png)
 
 ---
 

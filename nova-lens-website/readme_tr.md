@@ -4,6 +4,7 @@ Nova Lens, yüksek detaylı bir tasarımın **temiz, responsive ve sürdürüleb
 Bu projenin ana hedefi **tasarımdan koda birebir doğruluk** olup, görsel yeniden tasarım yapılmamıştır.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/228de408-2dd0-497c-ac02-733f47c847f0/deploy-status)](https://app.netlify.com/projects/nova-lens/deploys)
+![Nova Lens Preview](./img/project-preview.png)
 
 ---
 
@@ -67,12 +68,6 @@ Zorluk; **layout hassasiyeti, responsive yapı ve etkileşim mantığının doğ
 - Scroll bazlı giriş animasyonları
 - Tam responsive yapı (mobil → desktop)
 - Temiz ve sürdürülebilir CSS yapısı
-
----
-
-## Önizleme
-
-![Nova Lens Preview](./img/project-preview.png)
 
 ---
 
