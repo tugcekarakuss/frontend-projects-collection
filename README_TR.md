@@ -8,23 +8,116 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 
 ---
 
-## Proje Listesi
+## Proje Vitrini
 
-Her klasör bir projeyi temsil eder. Proje sayısı zamanla artacaktır.
+<p align="center">
+  Frontend pratik projelerimden oluşan seçilmiş çalışmalar.
+</p>
 
-| Proje Adı | Açıklama | Demo | Figma Tasarım |
-|-----------|----------|------|----------------|
-| [📚 Kitap Tanıtım Sayfası](./kitap-tanitim-sayfasi) | Basit bir kitap inceleme sayfası. | — | — |
-| [🎸 Müzik Grubu Tanıtım Sayfası](./muzik-grubu-tanitim-sayfasi) | Spotify entegrasyonu olan, görselliğe odaklanan temiz bir tanıtım sitesi. | [Canlı Demo](https://tugce.42web.io) | — |
-| [🥊 Boxchampy Websitesi](./boxchampy-websitesi) | Bir Figma eğitim videosu ile çalışılarak hazırlanmış modern web arayüzü. | — | [Tasarımı Görüntüle](https://www.figma.com/community/file/1519362285643212664/boxchampy) |
-| [🪑 Bootstrap Mobilya Websitesi](./bootstrap-mobilya-websitesi) | Tamamen Bootstrap kullanılarak geliştirilmiş bir mobilya sitesi. | [Canlı Demo](https://my-site.is-best.net) | — |
-| [🍪 Kurabiye Canavarı Kartı](./cookie-monster) | Kurabiye şeklindeki imleci takip eden, interaktif Kurabiye Canavarı kartı. | [Canlı Demo](https://cookieemonster.netlify.app/) |[Tasarımı Görüntüle](https://www.figma.com/community/file/1530305855415503769/interactive-eye-following-card)  |
-| [💖 Purrrfect Love Card](./purrrfec-love-card) | Kalp/confetti animasyonu ve GIF’lerle sevimli, interaktif bir aşk kartı. | [Canlı Demo](https://purrrfectlovecard.netlify.app/) | [Tasarımı Görüntüle](https://www.figma.com/community/file/1553192099813616951/purrfect-love) |
-| [🕶️ Nova Lens](./nova-lens-website/) | Responsive yapı, temiz CSS mimarisi ve etkileşimli JavaScript mantığına odaklanan pixel-perfect bir akıllı gözlük arayüz implementasyonu. | [Canlı Demo](https://nova-lens.netlify.app/) | [Figma Tasarımı](https://www.figma.com/community/file/1586123003360449417/nova-lens) |
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+  <a href="./nova-lens-website/">
+    <img src="./project-preview-images/glass-preview.png" width="100%" alt="Nova Lens"/>
+  </a>
+  <h3 align="center">Nova Lens</h3>
+  <p align="center">
+    Pixel-perfect akıllı gözlük arayüzü implementasyonu.<br/>
+    <sub>HTML • CSS • JavaScript • Responsive Design</sub><br/><br/>
+    <a href="https://nova-lens.netlify.app/">Canlı Demo</a> • 
+    <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">Tasarımı Gör</a>
+  </p>
+</td>
+
+<td width="50%">
+  <a href="./muzik-grubu-tanitim-sayfasi">
+    <img src="./project-preview-images/music-band-preview.png" width="100%" alt="Music Band"/>
+  </a>
+  <h3 align="center">Music Band Showcase</h3>
+  <p align="center">
+    Spotify entegrasyonlu, görsel odaklı tanıtım sitesi.<br/>
+    <sub>HTML • CSS • JavaScript • Spotify Embed</sub><br/><br/>
+    <a href="https://tugce.42web.io">Canlı Demo</a>
+  </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+  <a href="./purrrfec-love-card">
+    <img src="./project-preview-images/cute-card-preview.png" width="100%" alt="Purrrfect Love Card"/>
+  </a>
+  <h3 align="center">Purrrfect Love Card</h3>
+  <p align="center">
+    Animasyonlu ve etkileşimli sevgi kartı tasarımı.<br/>
+    <sub>HTML • CSS Animations • JavaScript</sub><br/><br/>
+    <a href="https://purrrfectlovecard.netlify.app/">Canlı Demo</a>
+  </p>
+</td>
+
+<td width="50%">
+  <a href="./cookie-monster">
+    <img src="./project-preview-images/cookie-monster-preview.png" width="100%" alt="Cookie Monster"/>
+  </a>
+  <h3 align="center">Cookie Monster Card</h3>
+  <p align="center">
+    İmleci takip eden interaktif kart efekti.<br/>
+    <sub>HTML • CSS • JavaScript • DOM Manipulation</sub><br/><br/>
+    <a href="https://cookieemonster.netlify.app/">Canlı Demo</a>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  <a href="./bootstrap-mobilya-websitesi">
+    <img src="./project-preview-images/bootstrap-preview.png" width="100%" alt="Bootstrap Furniture"/>
+  </a>
+  <h3 align="center">Bootstrap Furniture Website</h3>
+  <p align="center">
+    Bootstrap kullanılarak tamamen geliştirilmiş mobilya sitesi.<br/>
+    <sub>HTML • Bootstrap 5 • Responsive Grid</sub><br/><br/>
+    <a href="https://my-site.is-best.net">Canlı Demo</a>
+  </p>
+</td>
+
+<td width="50%">
+  <a href="./boxchampy-websitesi">
+    <img src="./project-preview-images/boxchampy-preview.png" width="100%" alt="Boxchampy"/>
+  </a>
+  <h3 align="center">Boxchampy Website</h3>
+  <p align="center">
+    Figma tasarımından arayüz implementasyonu.<br/>
+    <sub>HTML • CSS • Flexbox • Grid</sub><br/><br/>
+    <a href="https://www.figma.com/community/file/1519362285643212664/boxchampy">Tasarımı Gör</a>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  <a href="./kitap-tanitim-sayfasi">
+    <img src="./project-preview-images/book-showcase-preview.png" width="100%" alt="Book Showcase"/>
+  </a>
+  <h3 align="center">Book Showcase Page</h3>
+  <p align="center">
+    Basit bir kitap inceleme sayfası.<br/>
+    <sub>HTML • CSS</sub>
+  </p>
+</td>
+</tr>
+</table>
+</div>
 
 
-
-> ✅ Bu tabloya yeni projeler eklendikçe güncellenecektir.
+> Bu tabloya yeni projeler eklendikçe güncellenecektir.
 
 ---
 
@@ -47,4 +140,4 @@ Geri bildirimlerinizi memnuniyetle karşılarım!
 
 ---
 
-> 🛠️ Bu depo aktif olarak güncellenmektedir. Yeni projeler eklendikçe içerik zenginleşecektir.
+> Bu depo aktif olarak güncellenmektedir. Yeni projeler eklendikçe içerik zenginleşecektir.
