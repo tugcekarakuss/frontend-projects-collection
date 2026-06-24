@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@theme{
+    --color-pink:#FBA5A8;
+    --color-dark-pink:#FF0009;
+    --color-bg:#FFF6EF;
+    --color-button:#FCC7A5;
+}
+body{
+    background: url(./assets/background.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+}
