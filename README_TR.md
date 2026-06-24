@@ -1,3 +1,4 @@
+
 # Frontend Mini Projeler
 
 Bu depo, frontend geliştirme yolculuğumda öğrendiklerimi pekiştirmek için oluşturduğum küçük çaplı projeleri içerir. Her proje, HTML, CSS ve JavaScript gibi temel teknolojiler kullanılarak geliştirilmiştir. Bazı projelerde ek kütüphane ve framework’ler de kullanılmaktadır.
@@ -19,7 +20,21 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 <div align="center">
 
 <table>
+
 <tr>
+
+<td width="50%">
+  <a href="./cute-carousel">
+    <img src="./cute-carousel/project-preview.png" width="100%" alt="Cute Carousel"/>
+  </a>
+  <h3 align="center">Cute Carousel</h3>
+  <p align="center">
+    React ve Tailwind CSS kullanılarak geliştirilmiş carousel bileşeni.<br/>
+    <sub>React • Tailwind CSS • Responsive Design • Animation</sub><br/><br/>
+    <a href="https://cute-carousel-component.netlify.app/">Canlı Demo</a> •
+    <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">Tasarımı Gör</a>
+  </p>
+</td>
 
 <td width="50%">
   <a href="./nova-lens-website/">
@@ -33,6 +48,10 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
     <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">Tasarımı Gör</a>
   </p>
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
   <a href="./muzik-grubu-tanitim-sayfasi">
@@ -73,9 +92,11 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
     <a href="https://cookieemonster.netlify.app/">Canlı Demo</a>
   </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
   <a href="./bootstrap-mobilya-websitesi">
     <img src="./project-preview-images/bootstrap-preview.png" width="100%" alt="Bootstrap Furniture"/>
@@ -99,9 +120,11 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
     <a href="https://www.figma.com/community/file/1519362285643212664/boxchampy">Tasarımı Gör</a>
   </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
   <a href="./kitap-tanitim-sayfasi">
     <img src="./project-preview-images/book-showcase-preview.png" width="100%" alt="Book Showcase"/>
@@ -112,10 +135,12 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
     <sub>HTML • CSS</sub>
   </p>
 </td>
-</tr>
-</table>
-</div>
 
+</tr>
+
+</table>
+
+</div>
 
 > Bu tabloya yeni projeler eklendikçe güncellenecektir.
 
@@ -125,19 +150,20 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 
 Bu depo, öğrenme sürecimi belgelendirmek, frontend becerilerimi geliştirmek ve portföyümde sergilemek amacıyla oluşturulmuştur. Her proje üretim ortamına hazır olmayabilir, fakat sağlam bir başlangıç noktası sunmaktadır.
 
-- HTML, CSS ve JavaScript bilgilerini pratiğe dökmek  
-- Farklı UI/UX yapıları denemek  
-- Kodlama alışkanlıkları geliştirmek  
-- Git ve GitHub pratiği yapmak  
-- Figma öğrenmek ve uygulamak  
+- HTML, CSS ve JavaScript bilgilerini pratiğe dökmek
+- Farklı UI/UX yapıları denemek
+- Kodlama alışkanlıkları geliştirmek
+- Git ve GitHub pratiği yapmak
+- Figma öğrenmek ve uygulamak
 
 ---
 
 ## Katkılar
 
-Projeler kişisel gelişim amacıyla yapılmıştır, ancak her zaman pull request ve issue’lara açığım.  
+Projeler kişisel gelişim amacıyla yapılmıştır, ancak her zaman pull request ve issue'lara açığım.  
 Geri bildirimlerinizi memnuniyetle karşılarım!
 
 ---
 
 > Bu depo aktif olarak güncellenmektedir. Yeni projeler eklendikçe içerik zenginleşecektir.
+
