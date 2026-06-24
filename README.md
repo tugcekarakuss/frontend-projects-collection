@@ -23,20 +23,6 @@ Some projects include Figma UI designs used for development or practice purposes
 <table>
 
 <tr>
-
-<td width="50%">
-  <a href="./cute-carousel">
-    <img src="./cute-carousel/project-preview.png" width="100%" alt="Cute Carousel"/>
-  </a>
-  <h3 align="center">Cute Carousel</h3>
-  <p align="center">
-    Cute carousel component built with React and Tailwind<br/>
-    <sub>React • Tailwind CSS • Responsive Design</sub><br/><br/>
-    <a href="https://cute-carousel-component.netlify.app/">Live Demo</a> •
-    <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">View Design</a>
-  </p>
-</td>
-
 <td width="50%">
   <a href="./cute-carousel">
     <img src="./cute-carousel/project-preview.png" width="100%" alt="Cute Carousel"/>
