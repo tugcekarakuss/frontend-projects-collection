@@ -1,16 +1,75 @@
-# React + Vite
+# Cute Carousel
+🇹🇷 Türkçe açıklama için: [readme_tr.md](./readme_tr.md)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cute Carousel is a **frontend practice project** built to strengthen React and Tailwind CSS skills through a simple interactive carousel implementation.
 
-Currently, two official plugins are available:
+The main goal of this project was to practice **React state management and UI logic**, not to create a complex product or design system.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Cute Carousel](./project-preview.png)
+---
+## Project Links
 
-## React Compiler
+- **Live Demo:** https://cute-carousel-component.netlify.app/
+- **Figma Design:** https://www.figma.com/community/file/1586123003360449417/nova-lens
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Project Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project focuses on building a **basic image carousel component** using React.
+
+The structure is intentionally simple to practice:
+- Component state handling
+- Conditional rendering logic
+- UI interaction with buttons
+- Basic responsive layout using Tailwind CSS
+
+---
+
+## What I Practiced & Learned
+
+- **React State Management**
+  - Using `useState` to control active index
+  - Updating UI based on state changes
+
+- **Component Logic**
+  - Next / Previous navigation logic
+  - Circular index handling (looping carousel behavior)
+
+- **Tailwind CSS Usage**
+  - Utility-first styling approach
+  - Responsive layout and spacing
+  - Basic hover and active states
+
+- **UI Thinking**
+  - Structuring a simple, user-friendly carousel interface
+  - Displaying dynamic content (image + description)
+
+---
+
+## Features
+
+- Next / Previous navigation buttons
+- Circular carousel behavior (loops from end to start)
+- Dynamic image rendering
+- Dynamic description rendering
+- Responsive centered layout
+- Background image styling
+
+---
+
+## Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| React | UI library |
+| Tailwind CSS | Styling |
+| JavaScript (ES6+) | Logic & state handling |
+
+---
+
+## Local Setup
+
+```bash
+npm install
+npm run dev
