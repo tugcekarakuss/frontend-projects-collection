@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { items } from "../src/data"
 import '../style.css'
 function App() {
@@ -18,11 +19,20 @@ function Header() {
   );
 }
 function Form() {
+  const[title,seTitle]=useState("")
+  const[quantity,setQuantity]=useState(1)
+  function handleFormSubmit(e){
+    e.preventDefault()
+    const item={id:Date.now(),title,quantity,completed:false}
+    console.log(item)
+    seTitle("")
+    setQuantity(1)
+  }
   return (
-    <form>
-      <input type="text" placeholder="Enter item name" />
-      <select>
-        {Array.from({ length: 10 }, (v, i) => i + 1).map(num => <option value={num} key={num}>{num}</option>)}
+    <form className="form" onSubmit={handleFormSubmit}>
+      <input type="text" placeholder="Enter item name" value={title} onChange={(e)=>seTitle(e.target.value)} />
+      <select value={quantity} onChange={(e)=>setQuantity(Number(e.target.value))}>
+        {Array.from({ length: 10 }, (v, i) => i + 1).map(num => <option value={num} key={num} >{num}</option>)}
       </select>
       <button type="submit">Add</button>
     </form>
