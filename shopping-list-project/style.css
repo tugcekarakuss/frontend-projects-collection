@@ -58,8 +58,8 @@ form button:hover {
 
 .list li {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  gap: 12px;
   padding: 10px 12px;
   border-bottom: 1px solid #eee;
 }
@@ -67,16 +67,50 @@ form button:hover {
 .list li:last-child {
   border-bottom: none;
 }
+/* Checkbox */
+.list input[type="checkbox"] {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #4f46e5;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.list input[type="checkbox"]:hover {
+  box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.15);
+}
+
+.list input[type="checkbox"]:checked {
+  background-color: #4f46e5;
+  border-color: #4f46e5;
+}
+
+.list input[type="checkbox"]:checked::after {
+  content: "✓";
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .list span {
+  flex: 1;
   font-size: 15px;
+  transition: 0.2s;
 }
 
 .list button {
   background: transparent;
   border: none;
   color: #ef4444;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
   transition: 0.2s;
 }
@@ -84,7 +118,7 @@ form button:hover {
 .list button:hover {
   transform: scale(1.2);
 }
-
+/* SUMMARY */
 .summary {
   margin-top: 20px;
   padding: 15px;
