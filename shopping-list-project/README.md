@@ -1,16 +1,99 @@
-# React + Vite
+# React Shopping List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Shopping List is a **frontend-focused React project** built to practice component-based architecture, state management, and user interaction handling.
 
-Currently, two official plugins are available:
+The primary goal of this project was to create a **clean, interactive, and maintainable shopping list application** while improving React fundamentals and data flow management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Project Preview](../project-preview-images/shopping-list-preview.png)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Links
 
-## Expanding the ESLint configuration
+* **Live Demo:** https://shopping-list-component.netlify.app/
+* **Türkçe README:** [README_TR.md](./README_TR.md)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Project Purpose
+
+This project focuses on the implementation of a **shopping list management interface**.
+
+Users can add products, mark them as completed, remove individual items, and clear the entire list when needed.
+
+The challenge was centered on **state management, component communication, and dynamic UI updates using React hooks**.
+
+---
+
+## What I Practiced & Learned
+
+* **React Component Architecture**
+  Breaking the application into reusable and maintainable components.
+
+* **State Management with Hooks**
+  Managing shopping items using `useState` and updating the UI reactively.
+
+* **Props & Data Flow**
+  Passing data and callback functions between parent and child components.
+
+* **Array State Manipulation**
+  Adding, deleting, updating, and filtering items using immutable state updates.
+
+* **Conditional Rendering**
+  Dynamically displaying summaries and list information based on application state.
+
+---
+
+## Tech Stack
+
+| Technology        | Description                            |
+| ----------------- | -------------------------------------- |
+| React             | Component-based UI development         |
+| JavaScript (ES6+) | Application logic                      |
+| CSS3              | Styling and responsive layout          |
+| Vite              | Development environment and build tool |
+
+---
+
+## Features
+
+* Add new shopping items
+* Mark items as completed
+* Delete individual items
+* Clear the entire shopping list
+* Real-time shopping summary updates
+* Responsive and simple user interface
+
+---
+
+## Project Structure
+
+```text
+src
+├── components
+│   ├── Header.jsx
+│   ├── Form.jsx
+│   ├── List.jsx
+│   └── Summary.jsx
+├── data.js
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## Local Setup
+
+```bash
+git clone https://github.com/yourusername/shopping-list-app.git
+cd shopping-list-app
+npm install
+npm run dev
+```
+
+---
+
+## Credits
+
+* Tutorial and project guidance: **Sadık Turan**
+* Frontend implementation completed as part of the tutorial by **Tuğçe Karakuş**
