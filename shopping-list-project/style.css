@@ -44,7 +44,16 @@ form button {
 form button:hover {
   background-color: #4338ca;
 }
+form button.reset-btn {
+  background-color: transparent;
+  color: #6b7280;
+  border: 1px solid #ddd;
+}
 
+form button.reset-btn:hover {
+  background-color: #f3f4f6;
+  color: #111827;
+}
 /* LIST */
 .list {
   background: #f9fafb;
