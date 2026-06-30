@@ -12,7 +12,7 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 ## Proje Vitrini
 
 <p align="center">
-  Frontend pratik projelerimden oluşan seçilmiş çalışmalar.
+  Frontend pratik projelerimden oluşan çalışmalar.
 </p>
 
 <br/>
@@ -22,6 +22,18 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 <table>
 
 <tr>
+
+<td width="50%">
+  <a href="./shopping-list-project">
+    <img src="./project-preview-images/shopping-list-preview.png" width="100%" alt="Smart Shopping List"/>
+  </a>
+  <h3 align="center">Smart Shopping List</h3>
+  <p align="center">
+    React ile geliştirilmiş interaktif alışveriş listesi uygulaması.<br/>
+    <sub>React • State Management • Component Architecture • Responsive Design</sub><br/><br/>
+    <a href="https://shopping-list-component.netlify.app/">Canlı Demo</a> •
+  </p>
+</td>
 
 <td width="50%">
   <a href="./cute-carousel">
@@ -36,6 +48,10 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
   </p>
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
   <a href="./nova-lens-website/">
     <img src="./project-preview-images/glass-preview.png" width="100%" alt="Nova Lens"/>
@@ -44,14 +60,10 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
   <p align="center">
     Pixel-perfect akıllı gözlük arayüzü implementasyonu.<br/>
     <sub>HTML • CSS • JavaScript • Responsive Design</sub><br/><br/>
-    <a href="https://nova-lens.netlify.app/">Canlı Demo</a> • 
+    <a href="https://nova-lens.netlify.app/">Canlı Demo</a> •
     <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">Tasarımı Gör</a>
   </p>
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
   <a href="./muzik-grubu-tanitim-sayfasi">
@@ -145,6 +157,7 @@ Bu tasarımlara verilen bağlantılar üzerinden erişebilirsiniz.
 > Bu tabloya yeni projeler eklendikçe güncellenecektir.
 
 ---
+
 
 ## Amaç
 

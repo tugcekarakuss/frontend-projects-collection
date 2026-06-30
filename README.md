@@ -21,18 +21,38 @@ Some projects include Figma UI designs used for development or practice purposes
 <div align="center">
 
 <table>
+
+<tr>
+
+<td width="50%">
+  <a href="./shopping-list-project/">
+    <img src="./project-preview-images/shopping-list-preview.png" width="100%" alt="Smart Shopping List"/>
+  </a>
+  <h3 align="center">Smart Shopping List</h3>
+  <p align="center">
+    Interactive shopping list application built with React.<br/>
+    <sub>React • State Management• Component Architecture </sub><br/><br/>
+    <a href="https://shopping-list-component.netlify.app/">Live Demo</a>
+    
+  </p>
+</td>
+
 <td width="50%">
   <a href="./cute-carousel">
     <img src="./cute-carousel/project-preview.png" width="100%" alt="Cute Carousel"/>
   </a>
   <h3 align="center">Cute Carousel</h3>
   <p align="center">
-    Cute carousel component built with React and Tailwind<br/>
+    Cute carousel component built with React and Tailwind.<br/>
     <sub>React • Tailwind CSS • Responsive Design</sub><br/><br/>
     <a href="https://cute-carousel-component.netlify.app/">Live Demo</a> •
     <a href="https://www.figma.com/community/file/1586123003360449417/nova-lens">View Design</a>
   </p>
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
   <a href="./nova-lens-website/">
@@ -47,10 +67,6 @@ Some projects include Figma UI designs used for development or practice purposes
   </p>
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
   <a href="./muzik-grubu-tanitim-sayfasi">
     <img src="./project-preview-images/music-band-preview.png" width="100%" alt="Music Band"/>
@@ -62,6 +78,10 @@ Some projects include Figma UI designs used for development or practice purposes
     <a href="https://tugce.42web.io">Live Demo</a>
   </p>
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
   <a href="./purrrfec-love-card">
@@ -75,10 +95,6 @@ Some projects include Figma UI designs used for development or practice purposes
   </p>
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
   <a href="./cookie-monster">
     <img src="./project-preview-images/cookie-monster-preview.png" width="100%" alt="Cookie Monster"/>
@@ -90,6 +106,10 @@ Some projects include Figma UI designs used for development or practice purposes
     <a href="https://cookieemonster.netlify.app/">Live Demo</a>
   </p>
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
   <a href="./bootstrap-mobilya-websitesi">
@@ -103,10 +123,6 @@ Some projects include Figma UI designs used for development or practice purposes
   </p>
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
   <a href="./boxchampy-websitesi">
     <img src="./project-preview-images/boxchampy-preview.png" width="100%" alt="Boxchampy"/>
@@ -118,6 +134,10 @@ Some projects include Figma UI designs used for development or practice purposes
     <a href="https://www.figma.com/community/file/1519362285643212664/boxchampy">View Design</a>
   </p>
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
   <a href="./kitap-tanitim-sayfasi">
@@ -139,6 +159,8 @@ Some projects include Figma UI designs used for development or practice purposes
 > This table will be updated as new projects are added.
 
 ---
+
+
 
 ## Purpose
 
